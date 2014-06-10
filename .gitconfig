@@ -1,0 +1,25 @@
+[user]
+	name = Jean-Luc Lamadon
+	email = jean-luc.lamadon@f-secure.com
+[color]
+	branch = auto
+	diff = auto
+	interactive = auto
+	status = auto
+[alias]
+	a = add
+	s = status
+	d = diff
+	b = branch
+	r = remote
+	c = commit
+	co = checkout
+        cl = clean
+        cp = cherry-pick
+	l = log
+	ps = push
+	pl = pull
+	rb = rebase
+
+[core]
+	whitespace = true

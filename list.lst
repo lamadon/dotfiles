@@ -1,0 +1,10 @@
+.bashrc
+.bash_aliases
+.bash_profile
+.config
+.emacs
+.emacs.d
+.gitconfig
+.xinitrc
+.Xresources
+.zshrc

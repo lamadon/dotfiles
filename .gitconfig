@@ -1,6 +1,6 @@
 [user]
 	name = Jean-Luc Lamadon
-	email = jean-luc.lamadon@f-secure.com
+	email = jean-luc.lamadon@enevo.com
 [color]
 	branch = auto
 	diff = auto
@@ -8,18 +8,48 @@
 	status = auto
 [alias]
 	a = add
-	s = status
-	d = diff
+	al = "!git config -l | grep alias | cut -c 7-"
+
 	b = branch
-	r = remote
+	bls = for-each-ref --count=20 --sort=-committerdate refs/remotes/ --format='%(committerdate:short) %(authorname) %(refname:short)'
+
 	c = commit
+	cl = clean
 	co = checkout
-        cl = clean
-        cp = cherry-pick
+	cp = cherry-pick
+
+	d = diff
+	ds = diff --stat
+	dc = diff --cached
+
 	l = log
+	ls = log --stat
+	lsh = shortlog  --no-merges -sne .
+	lg1 = log --graph --abbrev-commit --decorate --date=relative --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(bold yellow)%d%C(reset)' --all
+	lg2 = log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold cyan)%aD%C(reset) %C(bold green)(%ar)%C(reset)%C(bold yellow)%d%C(reset)%n''          %C(white)%s%C(reset) %C(dim white)- %an%C(reset)' --all
+	lg = !"git lg1"
+
 	ps = push
 	pl = pull
+
+	r = remote
+	rs = checkout origin/master -B master
+	ru = remote update
 	rb = rebase
+
+	s = status
+
+        #lasttag =  !git for-each-ref refs/tags --sort='-*authordate' --format='%(refname)' --count=1 | sed 's/.*\\///'
+	lasttag = "!git tag --sort version:refname | tail -n1"
+	last2tag = "!git tag --sort version:refname | tail -n2"
+	lm = "!f() { git log --stat \"$1^..$1\"; }; f"
 
 [core]
 	whitespace = true
+	editor = nano
+	autocrlf = input
+	pager = less -x4
+[push]
+	default = simple
+[branch]
+	autosetuprebase = always

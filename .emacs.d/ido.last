@@ -1,0 +1,495 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/lamadon/enevo/falcon-data/falcon_data/" . "niva/")
+ ("/Users/lamadon/enevo/falcon-data/" . "falcon_data/")
+ ("/Users/lamadon/enevo/passport/passport/openapi/" . "paths/")
+ ("/Users/lamadon/enevo/castor/castor/openapi/" . "paths/")
+ ("/Users/lamadon/enevo/spreadsheet/spreadsheet/" . "lib/")
+ ("/Users/lamadon/enevo/hector/spreadsheet/" . "lib/")
+ ("/Users/lamadon/enevo/hector/hector/" . "lib/")
+ ("/Users/lamadon/enevo/hector/" . "hector/")
+ ("/Users/lamadon/Documents/enevo/" . "doggy_food/")
+ ("/Users/lamadon/Documents/" . "enevo/")
+ ("/Users/lamadon/enevo/clients/neon/client/src/components/" . "chartPanelFillLevels/")
+ ("/Users/lamadon/enevo/clients/neon/client/src/" . "components/")
+ ("/Users/lamadon/enevo/clients/neon/client/" . "src/")
+ ("/srv/db/archives/" . "migration/")
+ ("/Users/lamadon/enevo/wsnbin/src/onecollect/" . "device/")
+ ("/Users/lamadon/enevo/wsnbin/src/" . "onecollect/")
+ ("/Users/lamadon/enevo/wsnbin/" . "src/")
+ ("/srv/www/clients/neon/client/src/components/" . "missedCollections/")
+ ("/srv/www/clients/neon/client/src/" . "services/")
+ ("/srv/www/clients/neon/" . "client/")
+ ("/srv/db_schema/" . "utils/")
+ ("/srv/enevo/neon/components/" . "chartPanel/")
+ ("/Users/lamadon/enevo/passport/passport/" . "operations/")
+ ("/Users/lamadon/enevo/passport/" . "passport/")
+ ("/Users/lamadon/enevo/spreadsheet/" . "spreadsheet/")
+ ("/Users/lamadon/enevo/castor/castor/" . "lib/")
+ ("/Users/lamadon/enevo/castor/" . "castor/")
+ ("/Users/lamadon/enevo/nano/nano/" . "loggers/")
+ ("/srv/enevo/spreadsheet/" . "spreadsheet/")
+ ("/Users/lamadon/workspace/ops/puppet-docker/modules/role/files/consul-template/" . "config/")
+ ("/Users/lamadon/workspace/ops/puppet-docker/modules/profile/" . "templates/")
+ ("/Users/lamadon/enevo/sloth/persistence/sloth/persistence/" . "slothdb/")
+ ("/Users/lamadon/enevo/sloth/db/sloth/db/" . "__pycache__/")
+ ("/Users/lamadon/enevo/sloth/server/sloth/server/" . "apis/")
+ ("/Users/lamadon/enevo/sloth/server/sloth/" . "server/")
+ ("/Users/lamadon/enevo/sloth/server/" . "sloth/")
+ ("/Users/lamadon/enevo/nano/" . "nano/")
+ ("/Users/lamadon/enevo/sloth/persistence/sloth/" . "persistence/")
+ ("/Users/lamadon/enevo/sloth/persistence/" . "sloth/")
+ ("/Users/lamadon/enevo/sloth/forecast/sloth/" . "forecast/")
+ ("/Users/lamadon/enevo/sloth/forecast/" . "sloth/")
+ ("/srv/enevo/castor/castor/lib/" . "__pycache__/")
+ ("/srv/enevo/castor/castor/" . "operations/")
+ ("/srv/enevo/castor/" . "util/")
+ ("/Users/lamadon/workspace/ops/puppet-docker/modules/role/files/" . "consul-template/")
+ ("/Users/lamadon/workspace/ops/puppet-docker/modules/role/" . "files/")
+ ("/Users/lamadon/workspace/ops/puppet-docker/modules/" . "role/")
+ ("/Users/lamadon/workspace/ops/puppet-docker/" . "modules/")
+ ("/Users/lamadon/bench.save/" . "Darwin-CPython-2.7-64bit/")
+ ("/Users/lamadon/enevo/api.backup/src/onecollect/api/method/" . "v3/")
+ ("/Users/lamadon/enevo/api.backup/src/onecollect/api/" . "method/")
+ ("/srv/enevo/neon/client/src/components/" . "main/")
+ ("/srv/enevo/neon/client/src/" . "components/")
+ ("/srv/enevo/neon/client/" . "src/")
+ ("/srv/enevo/neon/" . "services/")
+ ("/Users/lamadon/workspace/ops/docker/" . "nginx-conf.d/")
+ ("/srv/enevo/api/tests/" . "testcore/")
+ ("/srv/enevo/api/src/onecollect/api/method/" . "v3/")
+ ("/srv/enevo/api/src/onecollect/api/" . "method/")
+ ("/srv/enevo/api/src/onecollect/" . "dbal/")
+ ("/srv/enevo/api/src/" . "onecollect/")
+ ("/srv/enevo/api/" . "etc/")
+ ("/srv/enevo/" . "castor/")
+ ("/Users/lamadon/enevo/guide/" . "master/")
+ ("/Users/lamadon/workspace/ops/deployments_radiator/" . "deployments_radiator/")
+ ("/Users/lamadon/enevo/api.backup/src/onecollect/" . "dbal/")
+ ("/Users/lamadon/enevo/api.backup/src/" . "onecollect/")
+ ("/Users/lamadon/enevo/api.backup/" . "src/")
+ ("/Users/lamadon/enevo/reporting/" . "src/")
+ ("/srv/db/schema/" . "tables/")
+ ("/srv/db/" . "schema/")
+ ("/Users/lamadon/enevo/admin/src/onecollect/api/method/admin/" . "export/")
+ ("/Users/lamadon/workspace/ops/changelogs/" . "changelogs/")
+ ("/Users/lamadon/workspace/ops/dockerfiles/base/" . "python-dev/")
+ ("/Users/lamadon/workspace/ops/dockerfiles/tools/" . "jupyter_pydata/")
+ ("/Users/lamadon/workspace/ops/api_bootstrap/bootstrap/" . "customer/")
+ ("/Users/lamadon/enevo/rmqconsumer/src/" . "consumer/")
+ ("/Users/lamadon/enevo/admin/admin/htdocs/" . "cstats/")
+ ("/Users/lamadon/workspace/3party/mysql/percona-toolkit-2.2.16/" . "bin/")
+ ("/Users/lamadon/workspace/3party/mysql/" . "percona-toolkit-2.2.16/")
+ ("/Users/lamadon/workspace/3party/" . "rp_pandas/")
+ ("/Users/lamadon/enevo/schema_oc/archives/" . "migration/")
+ ("/Users/lamadon/enevo/oneuiautomation/" . "tests/")
+ ("/Users/lamadon/enevo/alerts/src/onecollect/alerts/test/" . "src/")
+ ("/Users/lamadon/enevo/alerts/src/onecollect/alerts/" . "test/")
+ ("/Users/lamadon/enevo/alerts/src/onecollect/" . "alerts/")
+ ("/Users/lamadon/enevo/alerts/tests/" . "testcore/")
+ ("/srv/www/analysis.enevo.com/include/routeplanner/tests/" . "db/")
+ ("/srv/www/analysis.enevo.com/include/routeplanner/" . "tests/")
+ ("/srv/www/analysis.enevo.com/include/" . "routeplanner/")
+ ("/srv/www/analysis.enevo.com/" . "include/")
+ ("/srv/www/onecollect.enevo.com/src/onecollect/api/method/" . "v3/")
+ ("/srv/www/onecollect.enevo.com/src/onecollect/api/" . "method/")
+ ("/srv/www/onecollect.enevo.com/src/onecollect/" . "api/")
+ ("/srv/www/onecollect.enevo.com/src/" . "onecollect/")
+ ("/srv/www/onecollect.enevo.com/" . "src/")
+ ("/srv/www/" . "analysis.enevo.com/")
+ ("/Users/lamadon/workspace/sandbox/stash/" . "db-test-hook/")
+ ("/Users/lamadon/enevo/analysis/include/routeplanner/tests/" . "db/")
+ ("/Users/lamadon/enevo/api/src/onecollect/api/method/v3/" . "overview/")
+ ("/Users/lamadon/enevo/analysis/include/data_analysis2/" . "DbSetter/")
+ ("/Users/lamadon/enevo/api/vendor/phpunit/php-code-coverage/src/CodeCoverage/" . "Driver/")
+ ("/Users/lamadon/enevo/api/vendor/phpunit/php-code-coverage/src/" . "CodeCoverage/")
+ ("/Users/lamadon/enevo/api/vendor/phpunit/phpcov/" . "src/")
+ ("/Users/lamadon/enevo/api/vendor/phpunit/php-code-coverage/" . "src/")
+ ("/Users/lamadon/enevo/api/vendor/phpunit/" . "php-code-coverage/")
+ ("/Users/lamadon/enevo/api/vendor/" . "phpunit/")
+ ("/Users/lamadon/enevo/clients/neon/" . "client/")
+ ("/Users/lamadon/enevo/clients/" . "neon/")
+ ("/Users/lamadon/enevo/alerts/src/" . "onecollect/")
+ ("/Users/lamadon/enevo/alerts/" . "src/")
+ ("/Users/lamadon/workspace/ops/dockerfiles/" . "tools/")
+ ("/Users/lamadon/workspace/sandbox/dockerfiles/python/" . "pydata/")
+ ("/Users/lamadon/workspace/sandbox/dockerfiles/" . "mysql/")
+ ("/Users/lamadon/enevo/schema_oc/schema/" . "tables/")
+ ("/Users/lamadon/enevo/schema_oc/" . "migration/")
+ ("/Users/lamadon/enevo/rmqconsumer/" . "src/")
+ ("/Users/lamadon/enevo/analysis/include/routeplanner/src/service/" . "input/")
+ ("/Users/lamadon/enevo/analysis/include/routeplanner/src/" . "schedule/")
+ ("/Users/lamadon/enevo/analysis/include/routeplanner/" . "tests/")
+ ("/Users/lamadon/enevo/analysis/include/" . "data_analysis2/")
+ ("/Users/lamadon/enevo/analysis/" . "include/")
+ ("/Users/lamadon/enevo/sloth/db/sloth/" . "db/")
+ ("/Users/lamadon/enevo/sloth/db/" . "sloth/")
+ ("/Users/lamadon/enevo/sloth/" . "persistence/")
+ ("/Users/lamadon/enevo/kpi/" . "populate_customer_overview/")
+ ("/Users/lamadon/enevo/admin/src/onecollect/api/method/" . "admin/")
+ ("/Users/lamadon/enevo/admin/src/onecollect/api/" . "method/")
+ ("/Users/lamadon/enevo/admin/src/onecollect/" . "api/")
+ ("/Users/lamadon/enevo/admin/src/" . "onecollect/")
+ ("/Users/lamadon/enevo/admin/admin/" . "htdocs/")
+ ("/Users/lamadon/enevo/admin/" . "admin/")
+ ("/Users/lamadon/workspace/ops/api_bootstrap/" . "bootstrap/")
+ ("/Users/lamadon/workspace/ops/utils/" . "containerVariabilityUtil/")
+ ("/Users/lamadon/enevo/api/tests/" . "testcore/")
+ ("/Users/lamadon/enevo/api/src/onecollect/api/method/" . "v3/")
+ ("/Users/lamadon/enevo/api/src/onecollect/api/" . "method/")
+ ("/Users/lamadon/enevo/api/src/onecollect/" . "api/")
+ ("/Users/lamadon/enevo/api/src/" . "onecollect/")
+ ("/Users/lamadon/enevo/api/" . "src/")
+ ("/Users/lamadon/enevo/" . "sloth/")
+ ("/Users/lamadon/workspace/ops/tools/" . "sync2dev/")
+ ("/Users/lamadon/workspace/api/scripts/strings/" . "countries-regions/")
+ ("/Users/lamadon/workspace/api/scripts/" . "strings/")
+ ("/Users/lamadon/workspace/api/htdocs/inc/timezone/" . "tz/")
+ ("/Users/lamadon/workspace/api/htdocs/inc/" . "timezone/")
+ ("/Users/lamadon/workspace/api/src/onecollect/api/method/v2/" . "generate/")
+ ("/Users/lamadon/workspace/api/src/onecollect/alerts/test/" . "src/")
+ ("/Users/lamadon/workspace/api/tests/src/onecollect/api/method/v3/" . "additionaltests/")
+ ("/Users/lamadon/workspace/sandbox/python_exp/" . "aws/")
+ ("/Users/lamadon/workspace/sandbox/" . "python_exp/")
+ ("/Users/lamadon/workspace/schema_oc/archives/" . "migration/")
+ ("/Users/lamadon/workspace/rmqconsumer/src/" . "consumer/")
+ ("/Users/lamadon/workspace/wsnbin/src/" . "onecollect/")
+ ("/Users/lamadon/workspace/wsnbin/" . "src/")
+ ("/Users/lamadon/workspace/one/app/modules/map/" . "client/")
+ ("/Users/lamadon/workspace/api/htdocs/ui/js/onecollect/" . "views/")
+ ("/Users/lamadon/workspace/api/htdocs/ui/js/" . "onecollect/")
+ ("/Users/lamadon/workspace/schema_oc/schema/" . "tables/")
+ ("/Users/lamadon/workspace/api/htdocs/tweetingContainers/" . "src/")
+ ("/Users/lamadon/workspace/ops/puppet/modules/role/" . "templates/")
+ ("/Users/lamadon/workspace/ops/puppet/modules/profile/" . "templates/")
+ ("/Users/lamadon/workspace/ops/puppet/modules/" . "role/")
+ ("/Users/lamadon/workspace/ops/puppet/" . "modules/")
+ ("/Users/lamadon/workspace/kpi/" . "populate_customer_overview/")
+ ("/Users/lamadon/workspace/api/tests/src/onecollect/api/method/v2/" . "additionaltests/")
+ ("/Users/lamadon/workspace/api/tests/src/onecollect/api/method/" . "v2/")
+ ("/Users/lamadon/workspace/api/tests/src/onecollect/api/" . "method/")
+ ("/Users/lamadon/workspace/api/tests/src/onecollect/" . "api/")
+ ("/Users/lamadon/workspace/api/tests/src/" . "onecollect/")
+ ("/Users/lamadon/workspace/api/src/onecollect/api/method/v3/" . "bin/")
+ ("/Users/lamadon/workspace/ops/deploy/bspeakmon-jira-python-3148a8b5e187/" . "examples/")
+ ("/Users/lamadon/workspace/ops/deploy/" . "releases/")
+ ("/srv/schema_oc/" . "migration/")
+ ("/srv/flyway-3.2.1/" . "conf/")
+ ("/Users/lamadon/workspace/one/app/modules/user/" . "model/")
+ ("/Users/lamadon/workspace/one/app/modules/customer/" . "model/")
+ ("/Users/lamadon/workspace/analysis/include/routeplanner/" . "src/")
+ ("/Users/lamadon/workspace/analysis/include/" . "data_analysis2/")
+ ("/Users/lamadon/workspace/oneapi-clientpy/" . "oneapiclient/")
+ ("/Users/lamadon/workspace/one/app/client/" . "less/")
+ ("/Users/lamadon/workspace/rmqconsumer/" . "bin/")
+ ("/Users/lamadon/workspace/one/app/modules/acl/" . "model/")
+ ("/Users/lamadon/workspace/one/app/modules/" . "map/")
+ ("/Users/lamadon/workspace/one/app/" . "modules/")
+ ("/Users/lamadon/workspace/one/" . "app/")
+ ("/Users/lamadon/workspace/api/tests/" . "testcore/")
+ ("/Users/lamadon/workspace/analysis/" . "include/")
+ ("/Users/lamadon/workspace/ops/" . "docker/")
+ ("/Users/lamadon/workspace/data_portal/push-integration-endpoint/src/pushapi/" . "storage/")
+ ("/Users/lamadon/workspace/data_portal/push-integration-endpoint/src/" . "pushapi/")
+ ("/Users/lamadon/workspace/data_portal/push-integration-endpoint/" . "test/")
+ ("/Users/lamadon/workspace/data_portal/proxy-api/src/proxyapi/" . "storage/")
+ ("/Users/lamadon/workspace/data_portal/proxy-api/src/" . "proxyapi/")
+ ("/Users/lamadon/workspace/data_portal/proxy-api/" . "src/")
+ ("/Users/lamadon/workspace/data_portal/" . "proxy-api/")
+ ("/Users/" . "lamadon/")
+ ("/srv/liquibase-3.3.5/" . "sql/")
+ ("/srv/" . "db/")
+ ("/" . "srv/")
+ ("/Users/lamadon/.emacs.d/personal/" . "preload/")
+ ("/Users/lamadon/.emacs.d/" . "personal/")
+ ("/Users/lamadon/" . "workspace/")
+ ("/Users/lamadon/workspace/api/src/onecollect/api/method/v1/customer/" . "settings/")
+ ("/Users/lamadon/workspace/api/src/onecollect/api/method/v1/" . "customermanager/")
+ ("/Users/lamadon/workspace/api/htdocs/ui/views/" . "smartplans/")
+ ("/Users/lamadon/workspace/api/htdocs/ui/" . "views/")
+ ("/Users/lamadon/workspace/api/htdocs/" . "ui/")
+ ("/Users/lamadon/workspace/api/src/onecollect/api/method/" . "v3/")
+ ("/Users/lamadon/workspace/api/src/onecollect/api/" . "method/")
+ ("/Users/lamadon/workspace/api/src/onecollect/alerts/" . "alertharvester/")
+ ("/Users/lamadon/workspace/api/src/onecollect/" . "api/")
+ ("/Users/lamadon/workspace/api/src/" . "onecollect/")
+ ("/Users/lamadon/workspace/api/" . "src/")
+ ("/Users/lamadon/workspace/schema_oc/" . "schema/")
+ ("/Users/lamadon/workspace/" . "oneapi-clientpy/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/srv/db/schema/tables/"
+ "/Users/lamadon/enevo/"
+ "/Users/lamadon/enevo/sloth/persistence/sloth/persistence/slothdb/"
+ "/Users/lamadon/enevo/falcon-data/falcon_data/niva/"
+ "/Users/lamadon/enevo/castor/castor/operations/"
+ "/Users/lamadon/enevo/castor/castor/lib/"
+ "/Users/lamadon/workspace/oneapi-clientpy/oneapiclient/"
+ "/Users/lamadon/enevo/hector/hector/lib/"
+ "/Users/lamadon/enevo/hector/hector/operations/"
+ "/Users/lamadon/enevo/api/src/"
+ "/Users/lamadon/enevo/api/src/onecollect/"
+ "/Users/lamadon/enevo/passport/passport/operations/"
+ "/Users/lamadon/enevo/passport/passport/openapi/paths/"
+ "/Users/lamadon/enevo/castor/castor/openapi/paths/"
+ "/Users/lamadon/enevo/spreadsheet/spreadsheet/lib/"
+ "/Users/lamadon/enevo/spreadsheet/spreadsheet/operations/"
+ "/Users/lamadon/enevo/castor/castor/openapi/"
+ "/Users/lamadon/enevo/spreadsheet/spreadsheet/openapi/"
+ "/Users/lamadon/workspace/ops/docker/nginx-conf.d/"
+ "/Users/lamadon/workspace/ops/docker/docker-compose.d/"
+ "/Users/lamadon/workspace/ops/docker/"
+ "/Users/lamadon/enevo/hector/hector/openapi/"
+ "/Users/lamadon/enevo/api/tests/testcore/"
+ "/Users/lamadon/enevo/api/src/onecollect/dbal/"
+ "/Users/lamadon/enevo/api/src/onecollect/api/method/v3/"
+ "/Users/lamadon/Downloads/"
+ "/Users/lamadon/enevo/hector/spreadsheet/lib/"
+ "/Users/lamadon/enevo/hector/spreadsheet/operations/"
+ "/Users/lamadon/enevo/hector/spreadsheet/openapi/"
+ "/Users/lamadon/enevo/hector/hector/"
+ "/Users/lamadon/workspace/sandbox/python_exp/"
+ "/Users/lamadon/workspace/ops/dockerfiles/tools/jupyter_pydata/"
+ "/Users/lamadon/Documents/enevo/doggy_food/"
+ "/Users/lamadon/workspace/ops/deployments_radiator/deployments_radiator/"
+ "/Users/lamadon/enevo/clients/neon/client/src/components/chartPanelFillLevels/"
+ "/srv/db/archives/migration/"
+ "/Users/lamadon/enevo/api/src/onecollect/api/"
+ "/Users/lamadon/enevo/wsnbin/src/onecollect/device/"
+ "/srv/db/migration/"
+ "/Users/lamadon/workspace/ops/puppet-docker/modules/role/files/consul-template/"
+ "/Users/lamadon/workspace/ops/puppet/modules/role/templates/"
+ "/Users/lamadon/workspace/pandas_kb/"
+ "/Users/lamadon/enevo/castor/tests/"
+ "/srv/enevo/neon/services/"
+ "/Users/lamadon/workspace/ops/changelogs/changelogs/"
+ "/srv/enevo/castor/util/"
+ "/srv/enevo/api/etc/"
+ "/srv/enevo/castor/"
+ "/srv/enevo/castor/tests/"
+ "/srv/enevo/castor/castor/operations/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "container_nscontainer_mapping.sql"
+ "schema_oc"
+ "users.py"
+ "db.py"
+ "cusac.py"
+ "excluded_area.py"
+ "efficiency_status_annotation.py"
+ "efficiency_status.py"
+ "planner_settings.py"
+ "operation.py"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/srv/enevo/castor/castor/operations/" (22766 60040 0 0) "service_events.py" "planner_settings.py" "health.py" "excluded_link.py" "excluded_area.py" "efficiency_status_annotation.py" "efficiency_status.py" "customer.py" "alert.py" "../" "./")
+
+ ("/srv/enevo/castor/util/" (22657 11419 0 0) "schedules_import.py" "infer_schedules.py" "../" "./")
+
+ ("/Users/lamadon/workspace/pandas_kb/" (22666 26817 0 0) "LICENSE" "df.py" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/lamadon/enevo/api/src/onecollect/api/" (22766 40934 0 0) "user.php" "units.php" "session.php" "normalizer.php" "method.php" "method/" "journal.php" "internalmethod.php" "httpexception.php" "forwardexception.php" "authenticatedmethod.php" "../" "./")
+
+ ("/srv/db/archives/migration/" (22765 59791 0 0) "manual-20170227-device_connections-parse-and-populate" "20170330-STL-125-vendor_jobs.sql" "20170322-PLSR-97-container-types.sql" "20170321-BAD-233-superovertime.sql" "20170313-DEV-766-change-default-accelerometer-inactivity.sql" "20170307-archive-support-users.sql" "20170302-alerts-index-mcontainer-type-event-report-deact.sql" "20170222-device_sub_board.sql" "20170217-PLSR-127-better-defaults.sql" "20170216-PLSR-118-motion.sql" "20170215-device-connection.sql" "20170214-STL-69-migrate-recurrence-data-RS.sql" "20170214-BAD-188-add-days-in-plan.sql" "20170206-BAD-118-add-excluded-links-areas-timestamps.sql" "20170202-PLSR-127-device-settings.sql" "20170201-TOOLS-632-device-ctr-attempts.sql" "20170120-BAD-163-add-generation-time-to-plans.sql" "20170119-PLSR-116-add-servicing_method-to-container_properties.sql" "20170112-RP-1196-db-new-vehicle-and-break-schedule.sql" "20170111-PLSR-116-add-servicing-method.sql" "20170110-drop-alert-rawdata-mapping.sql" "20161221-PROB-2939-hills-waste-sn.sql" "20161219-device-rawdata-type_id-ts-idx.sql" "20161214-BE-932-planner-settings.sql" "20161213-STL-42-analyze-feature.sql" "20161114-STL-14-efficiency-score-annotations.sql" "20161111-CD-601-disappear-partial-collection-alert.sql" "20161101-BE-751_remove_undefined_values.sql" "20161031-BE-1004-api-restrict-alertsubscriptions-and.sql" "20161021-dump-site-settings.sql" "20161018-ONE-409-configuration-templates.sql" "20161017-ONE-911-netsuite-sales-orders.sql" "20161011-CD-594-phase-out-instant-tilt-alert.sql" "20161007-partner-features.sql" "20161004-drop-verified-distance-uncertainty.sql" "20161003-alert-fk-type_id.sql" "20160930-missing-settings-alert-soon-fullempty.sql" "20160927-BE-985-customer-partner-table.sql" "20160926-RP-1150-load-piecewise-daily-trends-in-current.sql" "20160922.1-remove-kierratysinfo-id.sql" "20160922-CD-588-phase-out-empty-distance-alert.sql" "20160921-CD-561-overdue-valid-measurement-kind.sql" "20160916-nexco-appkey.sql" "20160912-CD-582-phase-out-temperature-and-partial-collection.sql" "20160911-RP-622-remove-is_active-from-planner_vehicle.sql" "20160910-BE-969-switch-alert-setting-and-alert-subscription-references.sql" "20160909-BE-968-add-monthly-services-to-report-notification.sql" "20160905-smartdriver-appkey.sql" "20160830.1-address-country-fixup.sql" "20160830-BE-949-manageStaticSchedules-feature.sql" "20160829-make-fire-alert-type-default.sql" "20160826-missing-default-tilt-alert-values.sql" "20160825-added-monthly-summary-to-notifications_report-table.sql" "20160824.1-RP-1152-48-hour-forced-visit-in-plans.sql" "20160824-CD-563-drop-unprovisioned_device-alert.sql" "20160823-RP-770-use-site-opening-times-for-dump.sql" "20160818-BE-935-db-tables-for-alerts-reports-emails.sql" "20160817-CD-559-alert-type-isoperational.sql" "20160815.1-RP-1129-drop-schedule_event-and-schedule_event_forced_visit.sql" "20160815-RP-1119-recurrent-events-with-start_time-end_time.sql" "20160809.1-BE-931-default-alert-types.sql" "20160809-TOOLS-563-device-settings-level-reached-samples.sql" "20160808-BE-824-alert-subscription.sql" "20160803-RP-1054-rename-scheduling_mode_type-column.sql" "20160801-DEV-281-device-settings-log.sql" "20160725-populate-tilt-alert-thresholds.sql" "20160722-CD-549-alert-fill-level.sql" "20160721-TOOLS-463-changereq-activate.sql" "20160720-RP-909-redesign-schedule-recurrences.sql" "20160716-CD-547-rename-values-unsure.sql" "20160715-app-table.sql" "20160713-BE-915-site-details.sql" "20160712-RP-1065-selectable-return-path.sql" "20160711-CD-501-pt-osc-event-tables.sql" "20160707-CD-459-populate-alert-columns.sql" "20160705-BE-874-tag-archival_ts.sql" "20160628-default-timestamp-fix-macrocontainer-exclusion.sql" "20160622-BE-902-add-skipping-reasons-and-default-translations.sql" "20160616-BE-841-add-affected-containers-to-reports.sql" "20160615-BE-884-move-tag-rules-to-target.sql" "20160614-RP-842-valid_from_ts-in-planner_vehicle_break.sql" "20160609-RP-951-db-tables-for-storing-temporary-site.sql" "20160608-nuke-deprecated-content-type-tables.sql" "20160607-CD-493-delete-abnormal-distance-harvester.sql" "20160525-PROB-1676-all-tws-customers-slot-name-to.sql" "20160525-BE-852-db-add-column-to-the-report_type-table.sql" "20160524-BE-838-report-id-to-plan-execution-events.sql" "20160523-RP-950-ability-to-set-the-hour-at-which-today-s.sql" "20160523-PROB-1629.sql" "20160518-BE-866-migrate-keywords-to-tags.sql" "20160517.2-RP-960-Add-MultiTruckCost-paramater.sql" "20160517.1-drop-redundant-indexes.sql" "20160517-CD-472-migrate-overdue-harvesters.sql" "20160513-device-location-index.sql" "20160509.1-analytics-blacklist-ack.sql" "20160506-report-generated-customer_id-index.sql" "20160428-BE-819-cleanup-duplicate-plan-execution-events.sql" "20160425-RP-838-schedule-content-type.sql" "20160420-TOOLS-506-device-operational-status.sql" "20160414-timestamp-defaults.sql" "20160414-PROB-1035-variable-heights-Talismark.sql" "20160412-PROB-1055-variable-heights-RecycleSmart-extra-containers.sql" "20160412-CD-378-alert-option-owner.sql" "20160407-alert-columns-fix.sql" "20160405-alert-deactivated-index.sql" "20160330-BE-737-db-several-customers-with-customer_type_id.sql" "20160327.1-PROB-1055-variable-heights-RecycleSmart.sql" "20160318-feature-permissions.sql" "20160317.1-drop-container-slot-device-id.sql" "20160317-CD-417-plan-execution-indices.sql" "20160316-BE-552-container-slot-container-type.sql" "20160311-CD-465-verified-author-comment.sql" "20160310-CD-466-restore-auto-increment.sql" "20160303-alert-texts.sql" "20160301-CD-320-migrate-old-alert-content-types.sql" "20160229-CD-412-alerts-storage.sql" "20160226-ONE-543-customer-erp-id.sql" "20160219-fix-googlemaps.sql" "20160218-CD-372-nullify-existing.sql" "20160217-CD-442-historical-plan-matching.sql" "20160216.1-CD-372-reset-container-state-on-unmapping.sql" "20160216-RP-713-routing-service.sql" "20160212-CD-435-drop-tiltxyz.sql" "20160211.1-RP-726-tables-to-store-manual-fill-level.sql" "20160210.1-RP-722-simplistic-ability-to-rescale-container.sql" "20160210-lose-contenttype-empty-alert.sql" "20160209-PROB-1226-archived-sites.sql" "20160206-BE-632-db-constraint-one_customer-timezone.sql" "20160203-BE-370-db-normalize-all-instance-id-columns.sql" "20160202-RP-692-add-new-params.sql" "20160201-mobile-operator-table-comments.sql" "20160129-drop-unused-tables.sql" "20160127-BE-649-lng-lat-consistency.sql" "20160121-drop-acslp.sql" "20160120-BE-705-remove-archived-areas-from-sites.sql" "20160119.1-BE-683-uptodate-text.sql" "20160119-drop-redundant-indexes.sql" "20160119-alert_strings-additional-columns.sql" "20160118.1-theft-alert-switchable-visibility.sql" "20160118-CD-252-drop-rawdata_id-fk.sql" "20160114-CD-410-limit-usability-of-device_rawdata-target_id.sql" "20160113-CD-31-service-events-add-plans.sql" "20160112.1-add-namevalue-index-alert-data.sql" "20160112-CD-407-hardware-failure-alert.sql" "20160110.1-BE-642-api-validate-time-in-planexecution.sql" "20160108.1-RP-528-recurrent-event-rule-class-design.sql" "20160107-CD-319-change-pred-service-list-name.sql" "20160105-CD-319-change-today-plans-name.sql" "20151222.1-BE-698-rename-tagset.sql" "20151222-CD-392-verified-distance.sql" "20151215.3-BE-342-service_schedule-content-type-not-null.sql" "20151215.2-alert-data-event_ts-into-start_ts.sql" "20151215.1-BE-283-db-create-onecollect-db-tables-tagset.sql" "20151215-BE-283-db-create-onecollect-db-tables-tagset.sql" "20151214-CD-316-drop-execution-id-column.sql" "20151211-CD-392-device-container-slot-mapping.sql" "20151204-PROB-1034-clean-conflicting-device-container-mappings.sql" "20151203-PROB-1045-populate-missing-last-collected-ts.sql" "20151202-drop-device.site_id.sql" "20151130-CD-316-drop-alert-execution-history.sql" "20151126-CD-386-revise-severity-for-all-alert-harvesters.sql" "20151125.2-CD-329-store-history-trends.sql" "20151125.1-be-208-drop-tables.sql" "20151125-factory_saldo-factory.sql" "20151125-CD-377-location-resolution-at-home-flag-misuse.sql" "20151120.1-PROB-1009-fix-fire-alert-site-ids.sql" "20151120-fill-level-alerts-text.sql" "20151119-device_log_improvements.sql" "20151119-binary-protocol-2.9.sql" "20151117-container-slot-state-target-id.sql" "20151109-CD-370-container-specific-deviations.sql" "20151106-RP-555-min-site-fill-range.sql" "20151106-PROB-929-fix_missing_container_slot_device_ids.sql" "20151105-CD-364-drop-container-type-level-conversion-type.sql" "20151104-BE-645-container-variability-feature.sql" "20151102-check-mappings-better.sql" "20151031-RP-432-add-qos-overfill-metrics-to-planner_plan_statistics.sql" "20151030-cd-349-soonfull-servicing-fields.sql" "20151028-internal_user_activity.sql" "20151027-CD-34-drop-fillup-date-estimate.sql" "20151026-OPR-412-device_firmware-archival.sql" "20151026-analytics-remember-latest-processed-mapping.sql" "20151022-CD-360-use-subscription-visibility.sql" "20151021-sim_card_traffic_actual.sql" "20151021-drop-site-state-active.sql" "20151021-drop-old-interval-columns.sql" "20151020-drop-service-list-item-active.sql" "20151020-drop-device-active.sql" "20151019-drop-target_rawdata_latest.sql" "20151019-drop-customer-active.sql" "20151016-OPR-349-undo-device-event.sql" "20151016-CD-359-drop-time_zone.sql" "20151015-database-table-name-cleanup.sql" "20151013-OPR-336-event_id-bigint.sql" "201510091557-planner-termination-params.sql" "201510061308-RP-448-add-comments-to-planner-tables.sql" "20151006-OPR-349-make-views-non-updatable.sql" "20151001-CD-326-purge-harvesters.sql" "201509300001-CD-317-inconsistent-fill-level-data-for-macros.sql" "20150929-drop-alarmconf.sql" "201509280127-RP-459-servicing-lists-triggered-by-both.sql" "20150928-CD-281-target-macrocontainer-relinking.sql" "201509171312-BE-435-use-a-proper-key-derivation-function.sql" "20150914-OPR-357-device-feature-defaults.sql" "20150914-CD-271-planned-vs-executed.sql" "20150911-CD-258-alert-severity.sql" "20150908-drop-macrocontainer-enable.sql" "20150904-CD-211-proper-settings-for-collectionlistgenerator.sql" "201509021200-CD-290-event-gen-options-refactoring.sql" "201508281555-PROB-591-overdue-alert.sql" "201508251133-new-planner-optimization-settings.sql" "201508201405-CD-229-customer-overview-sitevisits.sql" "20150811-0001-DEV-80-kunstcamera.sql" "201508100225-RP-194-site-open-times.sql" "201508061158-CD-212-theft-alert-with-strings.sql" "20150730163228-BE-428-device-events.sql" "201507271656-BE-422-alert-strings-for-sms-voice.sql" "201507271036-BE-225-notification-media-for-alert-type.sql" "201507231500-SER-929-journal.sql" "201507210001-RP-314-bug-duplicate-frozen-plans.sql" "201507150003-OPR-266-csct-cl-archive.sql" "201507150002-OPR-268-Rename-old-content-type-tables-and-rows.sql" "201507061513-BE-223-db-add-column-to-one_collect_container_type.sql" "201507020000-husky-categories.sql" "201506261203-CD-49-battery-percentage.sql" "201506241443-BE-292-customer-overview.sql" "201506180001-OPR-230-bp2.8-server-timed_features_t.sql" "201506161539-RP-198-store-in-the-db-details-about-here.sql" "201506150002-CD-61-Drop-old-content-type-tables-and-rows.sql" "201506150001-OPR-226-distance-scan-settings.sql" "201506150001-CD-40-Database-changes-for-customer_content_type-and-content_type_category.sql" "201506140002-predicted-collection-list-cleanup.sql" "201506130001-RP-291-drop-unused-tables.sql" "201506100848-BE-390-add-modification-ts-one-target.sql" "201506091246-BE-365-add-archival_ts.sql" "201506090700-BE-388-drop-db-version.sql" "201506010001-ONe_device-index-for-pcb_sn.sql" "201505190001-OPR-192-bp2.8-device-features.sql" "201505120001-ANA-684-alert-ownership-and-internal-notifications.sql" "../" "./")
+
+ ("/Users/lamadon/Downloads/" (22766 7385 0 0) "zalando-event.ics" "Working_at_Yousician_191216-1.pdf" "Workbook - Time until Fill_v2.twbx" "WM Starwood 1.4.16.xls" "without usernames.csv" "weekendBoat-Aug2015.zip" "weekendBoat-Aug2015/" "waste_service_netsuite_tables_v3.xlsx" "waste_service_netsuite_tables_v3 (2).xlsx" "waste_service_netsuite_tables_v3 (1).xlsx" "waste_service_netsuite_tables_v2.xlsx" "Waste 101- R&D Meeting.pptx" "VSRelayServiceDataheet-8.2.pdf" "Vispring_EUR_Product_Brochure_English.zip" "Vispring_EUR_Product_Brochure_English/" "VERO_taskutilasto_80x120mm_2015_en_web.pdf" "VCR NAU Sites 5.15.16.xlsx" "VCR NAU Sites 5.15.16 (1).xlsx" "varausvahvistus_1437507219033.pdf" "US&C_Sensor_CleanUp_v02.xlsx" "upload.mov" "upload (2).mov" "upload (1).mov" "Untitled.mov" "Untitled.html" "TWS DATABASE EXTRACTION.xlsx" "Transactions_FI8313093500064431_20160101_20170212.txt" "total_sites.html" "Toimintakertomus 2013.pdf" "The Tableau Experience - Helsinki .ics" "test_data.csv" "test_data (3).csv" "test_data (2).csv" "test_data (1).csv" "Test cases developed.xlsx" "terveysselvitys+ja+vastuuvapautus+rope+park(1)+(1).pdf" "Tarifs_UK_v6.pdf" "Tarifs_FR_v6.pdf" "Tarifs_FR_v6 (1).pdf" "Tarifs_FR_v5.pdf" "Tapiolan_AU_2012-2017_pihojen_kohdekartta.pdf" "Taneli_Vähäkangas_cv.pdf" "Talismark_yesterday_missed.json" "Talismark_SVS.json" "Talismark_SVS (1).json" "talismark_static_schedules.xlsx" "talismark_static_schedules.csv" "talismark_static_schedules (1).xlsx" "Talismark_Report-1_Tom_Sample.twbx" "talismark_collections_august.csv" "Talismark Formula verification.twbx" "Talismark Formula verification (1).twbx" "Talismark ES.twbx" "Talismark ES (2).twbx" "Talismark ES (1).twbx" "table.csv" "sync.sh" "swagger.json" "subscriptions users.png" "Subscriptions customer.png" "subscription prior.png" "Story-Splitting-Flowchart.pdf" "Story-Splitting-Flowchart (1).pdf" "Stealth.png" "Static_Schedules.xlsx" "stash-filehooks-plugin-2.1.1.jar" "StarCraft-II-Setup.zip" "StarCraft-II-Setup.app/" "StarCraft-II-Setup 2.app/" "sql assignment.odt" "sql assignment rev2.odt" "spinnaker.pem" "sp-studio.jpg" "sp-studio (2).jpg" "sp-studio (1).jpg" "snapshot_2016-04-17T22-03-29Z.json" "Smart_Driver_Evaluation_28042015.pdf" "sl.xsls" "sl.xlsx" "sl (4).xlsx" "sl (3).xlsx" "sl (2).xlsx" "sl (1).xlsx" "SKMBT_C22016082509360.pdf" "SKMBT_C22015080518210.pdf" "SKMBT_C22015080419260.pdf" "SKMBT_C22015080419250.pdf" "SKMBT_C22015080419240.pdf" "SKMBT_C22015080419220.pdf" "sites.xlsx" "sites (1).xlsx" "serviceEvents.xlsx" "serviceEvents (9).xlsx" "serviceEvents (8).xlsx" "serviceEvents (7).xlsx" "serviceEvents (6).xlsx" "serviceEvents (5).xlsx" "serviceEvents (4).xlsx" "serviceEvents (3).xlsx" "serviceEvents (28).xlsx" "serviceEvents (27).xlsx" "serviceEvents (26).xlsx" "serviceEvents (25).xlsx" "serviceEvents (24).xlsx" "serviceEvents (23).xlsx" "serviceEvents (22).xlsx" "serviceEvents (21).xlsx" "serviceEvents (20).xlsx" "serviceEvents (2).xlsx" "serviceEvents (2) (1).xlsx" "serviceEvents (19).xlsx" "serviceEvents (18).xlsx" "serviceEvents (17).xlsx" "serviceEvents (16).xlsx" "serviceEvents (15).xlsx" "serviceEvents (14).xlsx" "serviceEvents (13).xlsx" "serviceEvents (12).xlsx" "serviceEvents (11).xlsx" "serviceEvents (10).xlsx" "serviceEvents (1).xlsx" "Service Validation_Talismark.twbx" "Service Validation_Talismark (1).twbx" "SER-913.html" "SER-913-2.html" "SER-913 (4).html" "SER-913 (3).html" "SER-913 (2).html" "SER-913 (1).html" "Screenshot_2015-06-01-16-32-28.png" "Screenshot_2015-06-01-16-30-32.png" "Screenshot_2015-06-01-16-29-46.png" "Screenshot_2015-06-01-16-27-10.png" "Screenshot_2015-06-01-16-08-26.png" "Screenshot_2015-06-01-16-01-53.png" "Screenshot_2015-06-01-15-51-13.png" "Screenshot_2015-06-01-14-27-57.png" "Screenshot_2015-06-01-10-47-53.png" "Screen Shot 2016-11-08 at 23.30.06.png" "schedules_templates.xlsx" "schedules_templates.numbers" "schedules_templates (1).xlsx" "schedules_import.py" "schedules_brainstorm" "schedules_152365.xslx" "schedules_152365.xlsx" "schedules_152365 (1).xslx" "schedules.xlsx" "schedule_brainstorms.jpg" "Säteri_guide.pdf" "sample_schedule_import_Enevo.xlsx" "sample_schedule_import_Enevo.csv" "sample_schedule_import_Enevo (2).xlsx" "sample_schedule_import_Enevo (1).xlsx" "Sample-Import-Spreadsheet.csv" "salaries_by_position_2015.pdf" "salaries_by_field_of_study_2015.pdf" "SafariStand8.0.211/" "SA_trip_export.xlsx" "S7 Native.jpg" "RS_schedules_import_templates_02_06_2017.xlsx" "rs_no_schedule.xlsx" "RS_import_02.xlsx" "RS_122316_excel.xlsx" "RS_122316.numbers" "RP log messages-1464156626179.json" "route1016839-land-porsmork.gpx" "RingCentralMeetingsLauncher.zip" "RingCentralMeetingsLauncher.app/" "RingCentralMeetingsInstaller.pkg" "Rightsizing savings validation.pptx" "RG2016_e-ticket_9020600256.pdf" "RG2016_e-ticket_9020600255.pdf" "rev (1)" "rev" "reservation_1491853081517.pdf" "reservation_1464154222993.pdf" "reservation_1441142954440.pdf" "Required Fields for Route Import.xlsx" "report.html" "report (2).html" "report (1).html" "ReleveIntegral_LAMADON_JEAN_LUC_1977_22-11-2016.pdf" "ReleveIntegral_LAMADON_JEAN_LUC_1977_22-11-2016 (1).pdf" "release_pipeline.xml" "release_pipeline (9).xml" "recycle_smart.json" "recycle_smart (1).json" "Rathna Deviprasath_cv.pdf" "pylint (1)" "pylint" "puppet-ebooks.tar" "puppet-ebooks/" "proof_ml.pdf" "proof_ml (2).pdf" "proof_ml (1).pdf" "Product description for PerkAccount.pdf" "problemsReport.xlsx" "problemsReport (3).xlsx" "problemsReport (2).xlsx" "problemsReport (1).xlsx" "prob-535.sh" "prob-514.sql" "prob-514 (8).sql" "prob-514 (7).sql" "prob-514 (6).sql" "prob-514 (5).sql" "prob-514 (4).sql" "prob-514 (3).sql" "prob-514 (2).sql" "prob-514 (1).sql" "pm_raci_discussion_starting_point_v3.pptx" "playaround.html" "playaround (1).html" "plans_2016-03-23T04-02-13Z.xlsx" "plans_2015-08-31T01-01-50Z.xlsx" "plans_2015-08-31T01-01-50Z.json" "planned-vs-detected-vs-executed-visits-for-mixed-(1088).xls" "planned-vs-detected-vs-executed-visits-for-mixed-(1088).csv" "planned-vs-detected-vs-executed-visits-for-mixed-(1088) (2).csv" "planned-vs-detected-vs-executed-visits-for-mixed-(1088) (1).csv" "Plan-01102015.pdf" "PEUGEOT 309 iso.docx" "PEUGEOT 309 iso-2.docx" "PerkAccount Special terms.pdf" "PerkAccount Special terms (1).pdf" "PARIS_MONT_1_ET_2-NANTES_23-07-15_LAMADON_JEAN_LUC_QPOEWL_9xMkXr435dMdlx19ckeD.pdf" "PARIS_GARE_LYON-LE_CREUSOT_TGV_29-05-16_LAMADON_JEAN_LUC_QFCRME_fLQjA5bvvVXIa0TEYiGG.pdf" "Oysterbox.pdf" "owl_stealth.png" "onecollect.dev.ini" "OC-BRACKET-13_008-FLAT-V1.1.PDF" "OC-BRACKET-11.dwg" "notification user.png" "Notification customer.png" "Nico Rotstein CV.pdf" "netsuite_test.py" "netsuite_test-create_hauler_bill.py" "netsuite_test-create_hauler_bill (1).py" "Netsuite+proxy+proto.py" "mysqld.out" "mysqld.err" "mysqld (1).out" "mysql-connector-python-2.1.3-osx10.9.dmg" "mysql-connector-python-2.1.3-osx10.9 (1).dmg" "My Project-e9f2a409b480.json" "My Project-c14ed30f27bb.p12" "My Project-8c6bded78bce.json" "motswari.pdf" "motion.tar" "motion (1).tar" "Mission_Viejo_Plans_2016_May_23_Mon_1464008593.csv" "Mission_Viejo_Plans_2016_May_04_Wed_1462359601.csv" "Mission_Viejo_Plans_2016_Apr_15_Fri_1460717946.csv" "Mission Viejo Recycle Data - ERL 23Nov15_TGEDIT_v01.xlsx" "Mission Viejo Recycle Data - ERL 23Nov15_TGEDIT_v01 - Enevo_INSTALL_FORM.tsv" "Mission Viejo Recycle Data - ERL 23Nov15_TGEDIT_v01 - Enevo_INSTALL_FORM (1).tsv" "Mission Viejo Recycle Data - ERL 23Nov15_TGEDIT_v01 (1).xlsx" "Mission Viejo Install Form 01-05-16 v3.xlsx" "missed_collections.csv" "missed_collections (1).csv" "minimizing_support_effort.pdf" "minimizing_support_effort-3.pdf" "minimizing_support_effort-2.pdf" "minimizing_support_effort (1).pdf" "MENU.pdf" "MENU (1).pdf" "Matti Airas CV 2017-03-22.pdf" "match.numbers" "marja_fairwell_no_profit.jpg" "marja_fairwell.xcf" "marja_fairwell.jpg" "marcos-diaz-cv.pdf" "marcos-diaz-cv (1).pdf" "Makakatana 2015 - RATES - RACK.doc" "maarten_dump.csv" "LYXOR_Factsheet_ETF_FR0010411884_EN_20151231.pdf" "lyon-02-03-2017.ics" "LU0136242590_MR_DE_en.pdf" "list-1249583.xlsx" "LIPUT_4315172161.pdf" "Liite_5_maisema ja kulttuuriymparisto.pdf" "LH_WEBCKI.GB.PORTAL.YplwRLZme9uK1BQPvrXE2-.pdf" "LE_CREUSOT_TGV-PARIS_GARE_LYON_18-05-15_LAMADON_JEAN_LUC_THYPGS_DvfMLTotoyosSxTLT32t.pdf" "LE_CREUSOT_TGV-PARIS_GARE_LYON_05-12-16_LAMADON_JEAN_LUC_RJQHZD_OqfjGQMSvn7fn2e9pTbS.pdf" "Lauttasaari.xlsx" "Lauttasaari (2).xlsx" "Lauttasaari (1).xlsx" "lamaje_vs_DrChivo_2016_08_15.pgn" "lamadon.pdf" "KPIs.html" "KPIs (1).html" "Kopie van Rotterdam_schedules.xlsx" "Kopie van Rotterdam_schedules-3.xlsx" "Kopie van Rotterdam_schedules-3 (1).xlsx" "Kopie van Rotterdam_schedules (2).xlsx" "Kopie van Rotterdam_schedules (1).xlsx" "Kopie van 62 Antwerpen site naming with area.xlsx" "ketter.json" "Keter_27_12_2016.xlsx" "JuMP_sudoku.html" "JL_talismark.json" "JL-1453224380877.json" "James_Mathews_cv_full.pdf" "James_Mathews_cv_1page.pdf" "James_Mathews_cv_1page (1).pdf" "Islington Smart Plan efficiency review.xlsx" "Islington Smart Plan efficiency review (2).xlsx" "Islington Smart Plan efficiency review (1).xlsx" "Invoice_62450342.pdf" "installation.pdf" "inkro1_vs_lamaje_2016_08_15.pgn" "import-export-flow.pdf" "Implementation Launch V2.xlsx" "IMG_1181.JPG" "IMG_1179.JPG" "IMG_1162.JPG" "IMG_1162-1.JPG" "IMG_1161.JPG" "IMG_1161-1.JPG" "IMG_1159.JPG" "IMG_1159-1.JPG" "IMG_0117.MOV" "IMG_0117 (1).MOV" "IM_Collection_Detection_v02.twbx" "hsl_api_json_schemas_1_1_3.zip" "hqdefault.jpg" "hlane.pdf" "hlane (1).pdf" "High-Level-Roadmap-Planning-2015-Q2.pptx" "HERE+Support.doc" "grafana_data_export.csv" "gimp-2.8.20-x86_64.dmg" "gimp-2.8.18-x86_64.dmg" "FullSizeRender.jpg" "Freedome.dmg" "Freedome (1).dmg" "form_mkayha.pdf" "form_mkayha (1).pdf" "Form.pdf" "Form (1).pdf" "foo.csv" "Fogo_import.xlsx" "final_list" "Filtering.pptx" "FF6B054BF59529AD66B24315229CB9D695D1A2D7B0B8F4A936pimgpsh_fullsize_distr.jpg" "export.xlsx" "export-plans-2015-10-20.xlsx" "export-collections-2015-11-02T10_07_06Z" "export-collections-2015-10-20.xlsx" "export-collections-2015-08-31T12-54-11Z.xlsx" "export-collections-2015-08-03T14-42-07Z.xlsx" "export-alerts-2015-10-20.xlsx" "export (3).xlsx" "export (2).xlsx" "export (1).xlsx" "ESTA-Status-Summary_JL.html" "ESTA-Status-Summary_Hanna.html" "ES+query.html" "EoP_Card Game Images.pdf" "ENWIS-Processes-Hows.wvx" "Enevo_SQL_1_3_DataFile.urj" "Enevo_ONe_Service_Account_Management_0.5.pptx" "Enevo_ONe_Service_Account_Management_0.5 (1).pptx" "Enevo_ONe_Service_Account_Management_0.5 (1) (3).pptx" "Enevo_ONe_Service_Account_Management_0.5 (1) (2).pptx" "Enevo_ONe_Service_Account_Management_0.5 (1) (1).pptx" "enevo.txt" "Enevo Route Planner API.xlsx" "Enevo Icons Library.pdf" "Enevo Hub2 - analyze-03.png" "Enevo Customer Form - Waste Management - Mission Viejo - export 2015-11-26.xlsx" "Enevo Customer Form - Waste Management - Mission Viejo - export 2015-11-26 (2).xlsx" "Enevo Customer Form - Waste Management - Mission Viejo - export 2015-11-26 (1).xlsx" "Enevo Customer Form - RecycleSmart - export 2017-04-10.xlsx" "Enevo Customer Form - Fogo de Chao - export 2017-04-10.xlsx" "Enevo Customer Form - Fogo de Chao - export 2017-04-10 (1).xlsx" "Enevo Customer Form - Afvalservice West  - export 2016-08-08.xlsx" "Employee handbook.pdf" "Employee handbook (5) (1) (1).pdf" "Elevation-of-Privilege-BlackHat2010ShostackFinal.pptx" "ElasticWolf.app/" "ElasticWolf-osx-5.1.6.zip" "eddinda_vs_lamaje_2016_08_15.pgn" "ebook-2013-03-wad.pdf" "distribution.csv" "DEV-4753219-030615-1015-6.pdf" "desejo-feliz-natal-vera.pps" "db_scrollback" "Data_Portal_2015-04-23.pdf" "Data_Portal_2015-04-23-3.pdf" "Data_Portal_2015-04-23-2.pdf" "Data_Portal_2015-04-23 (1).pdf" "CV_workshop.zip" "CV_workshop 2/" "CV_workshop (1).zip" "CV_workshop/" "CV_Peter_Vajda.pdf" "CV_Niemenmaa.pdf" "CV_lamadon_03_2017.pdf" "CV_lamadon.pdf" "CV_lamadon (2).pdf" "CV_lamadon (1).pdf" "CV_Jean-Luc_Lamadon.doc" "CV.pdf" "CV.docx" "cv-rajeev-siewnath.pdf" "CV-Kangas-032017-2pages_2.pdf" "CV (4).pdf" "cv (3).pdf" "CV (2).pdf" "CV (1).pdf" "customer_scores.xlsx" "customer_scores (4).xlsx" "customer_scores (3).xlsx" "customer_scores (2).xlsx" "customer_scores (1).xlsx" "Customer Form v1.30 Variable Heights.xlsx" "Customer Form v1.30 Standard.xlsx" "Customer Form v1.10.xlsx" "Customer Form 2015-11-18 Variable Heights.xlsx" "Customer Form 2015-11-18 Variable Heights (2).xlsx" "Customer Form 2015-11-18 Variable Heights (1).xlsx" "Customer addresses for postcards.xlsx" "cronminute.svg" "cronminute-staging.svg" "cronmin.svg" "cronmin (1).svg" "credentials.csv" "credentials(1).csv" "credentials (1).csv" "crashes_com.enevo.one.fieldworker.zip" "crashes_com.enevo.one.fieldworker/" "costs.csv" "Contracts with Tech sales business model - plan and decisions.xlsx" "Content Headers.xlsx" "Content Headers (2).xlsx" "Content Headers (1).xlsx" "contaminated_sites_2016-10-12.xlsx" "contacts.vcf" "CON4566_Descamps-OracleOpenWorld-SchemaManagement.pdf" "CON4566_Descamps-OracleOpenWorld-SchemaManagement (1).pdf" "Commented_mockup.jpg" "Commented_mock_up" "collection_lists_152651.xlsx" "collection_lists_1262266.xlsx" "collection_lists_1256698.xlsx" "Collection View Enhancement Prop 12.21.15.pptx" "Cold+containers.py" "CIWA Nov 29, 2016.m4a" "Citrix Online Launcher.dmg" "CI flow.xml" "CI flow (1).xml" "CGV-RG16_v2_FR.pdf" "CGU.pdf" "CD-410.html" "callstatsio-design-brief-orgs.pdf" "Building_Microservices.pdf" "Building_Microservices.epub" "Broker Service" "Broker schedules.png" "Brand guideline_v0.6-DRAFT.pdf" "Brand guideline for partners.pdf" "brainstorming.JPG" "bootstrap-field-accounts.php" "Biba-OSX-3.14.3972.dmg" "basic.ics" "basic (2).ics" "basic (1).ics" "attachment.pdf" "attachment (2).pdf" "attachment (1).pdf" "Archive.zip" "api_v3_proxy_methods.pdf" "api_v3_proxy_methods (1).pdf" "api_v3_private.pdf" "api_v3_private (5).pdf" "api_v3_private (4).pdf" "api_v3_private (3).pdf" "api_v3_private (2).pdf" "api_v3_private (1).pdf" "api_v3.pdf" "api_v3.html" "api_v3 (8).pdf" "api_v3 (7).pdf" "api_v3 (6).pdf" "api_v3 (5).pdf" "api_v3 (4).pdf" "api_v3 (3).pdf" "api_v3 (2).pdf" "api_v3 (1).pdf" "api_v2.pdf" "api_v2 (1).pdf" "Andrey Kramarev CV.pdf" "Analyze Gantt.xlsx" "Analytics ONe Collect Browser & OS 20151003-20151102.pdf" "Analytics ONe Collect Browser & OS 20151003-20151102 (3).pdf" "Analytics ONe Collect Browser & OS 20151003-20151102 (2).pdf" "Analytics ONe Collect Browser & OS 20151003-20151102 (1).pdf" "Analytics Kaikki verkkosivuston tiedot Tags Vs Areas 20160320-20161016.pdf" "Analytics Kaikki verkkosivuston tiedot Overview 20151020-20151119.pdf" "Analytics Kaikki verkkosivuston tiedot Overview 20151020-20151119 (1).pdf" "Analytics Kaikki verkkosivuston tiedot one.enevo.com overview 20151114-20151214.pdf" "Analytics Kaikki verkkosivuston tiedot Browser & OS 20160101-20160221.pdf" "Analytics Kaikki verkkosivuston tiedot Behavior Flow 20151024-20151123.pdf" "Analytics Kaikki verkkosivuston tiedot Behavior Flow 20151020-20151119.pdf" "AmazonDriveInstaller.dmg" "alerts_2016-04-17T22-07-59Z.xlsx" "alerts_2016-04-17T22-07-59Z.json" "alerts_2015-09-20T22-04-45Z.xlsx" "alerts_2015-09-20T22-04-45Z.json" "alerts_2015-07-09T22-05-23Z.json" "alerts_2015-06-28T22-05-53Z.xlsx" "alerts.xlsx" "Alerts subscription.png" "Alerts Notifications.png" "Alerts Notifications Users.png" "Alerts notifications prior .png" "alerts (5).xlsx" "alerts (4).xlsx" "alerts (3).xlsx" "alerts (2).xlsx" "alerts (1).xlsx" "Alert subscription user.png" "Alert subscription customer.png" "AESEnevoIncCustomerListResults411.csv" "AESContainerTransactionsSearchResults591.csv" "AEROPORT_CDG2_TGV-LE_CREUSOT_TGV_02-12-16_LAMADON_JEAN_LUC_RIOGHM_Vo7h50moLxqBkPN1V2Yx.pdf" "AEROPORT_CDG2_TGV-LE_CREUSOT_TGV_02-12-16_LAMADON_JEAN_LUC_RIOGHM_EmtHhQoutL8S9JEY2lcc.pdf" "accessKeys.csv" "_translate_me (Oct-05).zip" "_translate_me (Oct-05)/" "6a00d8341f05cf53ef0105361401e6970b-800wi.jpg" "6796F7F1EF3C4AEE1E69FA00C74FAECA8FA1AA5CFECC72BED4pimgpsh_fullsize_distr.jpg" "21635444405_858e930780_o.jpg" "21447341970_c0a7786c3d_o.jpg" "20170206 Waste Service Digital Communications.pptx" "20170118 NetSuite CRM Training v2.pdf" "2017-03-23-CV-en-Jyrki-Salonen.pdf" "2017-03-23-CV-en-Jyrki-Salonen (2).pdf" "2017-03-23-CV-en-Jyrki-Salonen (1).pdf" "2016Dulini_Rack_rate.docx" "20160215_RecycleSmart_Install_Form.xlsx" "20160215_RecycleSmart_Install_Form (1).xlsx" "2015-10-21-app-devFlavor-debug.apk" "152637_yesterday_missed.json" "150710_FI_NL.txt" "150602_Report.pdf" "041948401-0001.epub" "041948401-0001 (1).epub" "0001-notify.php.patch" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/lamadon/enevo/api/src/onecollect/dbal/" (22759 27403 0 0) "vehicleschedules.php" "vehicles.php" "vehiclebreaks.php" "tags.php" "tagcategories.php" "staticschedules.php" "sqllogger.php" "sites.php" "sitecontenttypes.php" "sitecontenttypeexclusions.php" "servicelists.php" "serviceevents.php" "scheduleintervalrules.php" "reports.php" "reportnotifications.php" "querybuilderextension.php" "plantraces.php" "planstatistics.php" "plansettings.php" "plans.php" "planexecutions.php" "planexecutionevents.php" "filllevels.php" "dumpsitesettings.php" "devices.php" "devicecontainermappings.php" "customers.php" "contenttypes.php" "containertypes.php" "containerslots.php" "containerslotmappings.php" "containers.php" "base.php" "alertsubscriptions.php" "alerts.php" "alertnotifications.php" "../" "./")
+
+ ("/Users/lamadon/enevo/api/tests/testcore/" (22759 27403 0 0) "venv.sh" "util.py" "unstable.ini" "testenv/" "testcore.xml" "test_vehicles.py" "test_vehicle_schedules.py" "test_vehicle_breaks.py" "test_util.py" "test_users.py" "test_units.py" "test_tweetingcontainers.py" "test_temperatures.py" "test_tags.py" "test_static_schedules.py" "test_sites.py" "test_site_content_types.py" "test_site_content_type_exclusions.py" "test_service_lists.py" "test_sequential_schedules.py" "test_schedules.py" "test_reports.py" "test_plans.py" "test_plan_schedules.py" "test_plan_results.py" "test_plan_executions.py" "test_notifications.py" "test_monthly_service_events.py" "test_limits.py" "test_journal.py" "test_fill_levels.py" "test_events.py" "test_dump_site_setting.py" "test_devices.py" "test_device_container_mappings.py" "test_customers.py" "test_customer_overview.py" "test_content_types.py" "test_containers.py" "test_container_types.py" "test_container_slots.py" "test_container_slot_mappings.py" "test_benchmark.py" "test_base.py" "test_areas.py" "test_api.py" "test_alerts_order.py" "test_alerts.py" "test_alert_subscriptions.py" "test_alert_strings.py" "test.sh" "templates.py" "staging.ini" "sampling.py" "requirements.txt" "README.md" "rapid.ini" "pytestdebug.log" "fixtures.py" "dockerbox.ini" "devbox.ini" "conftest.pyc" "conftest.py" "ci.ini" "api.pyc" "api.py" "__pycache__/" ".cache/" ".benchmarks/" "../" "./")
+
+ ("/Users/lamadon/enevo/hector/hector/openapi/" (22765 49093 0 0) "api.yaml" "../" "./")
+
+ ("/Users/lamadon/workspace/ops/docker/" (22766 40879 0 0) "vagrant/" "test/" "stop" "run" "README.md" "nginx-conf.d/" "mac-attach" "docker-compose.yml.bak" "docker-compose.yml" "docker-compose.edge.yml" "docker-compose.d/" "docker-compose.base.yml" "docker-compose" "dev-env" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/lamadon/workspace/ops/docker/docker-compose.d/" (22766 40879 0 0) "wsnbin.yml" "spreadsheet.yml" "sloth.yml" "routeplanner.yml" "rmqconsumer.yml" "passport.yml" "neon.yml" "guide.yml" "falcon.yml" "castor.yml" "api.yml" "analysis.yml" "admin.yml" "../" "./")
+
+ ("/Users/lamadon/workspace/ops/docker/nginx-conf.d/" (22766 40879 0 0) "spreadsheet.conf.dist" "sloth.conf.dist" "routeplanner.conf.dist" "passport.conf.dist" "neon.conf.dist" "falcon.conf.dist" "enevo_cors" "castor.conf.dist" "api.conf.dist" "analysis.conf.dist" "admin.conf.dist" "_transient_container_config.conf-e" "_transient_container_config.conf" "../" "./")
+
+ ("/Users/lamadon/enevo/hector/hector/operations/" (22766 60837 0 0) "vendors.py" "nsclient.py" "health.py" "containers.py" "__pycache__/" "__init__.py" "../" "./")
+
+ ("/Users/lamadon/enevo/hector/hector/lib/" (22766 59980 0 0) "query.py" "operation.py" "__pycache__/" "__init__.py" "../" "./")
+
+ ("/Users/lamadon/workspace/oneapi-clientpy/oneapiclient/" (22766 5298 0 0) "main.py" "json_util.py" "client.py" "api.py" "__init__.py" "../" "./")
+
+ ("/Users/lamadon/enevo/sloth/persistence/sloth/persistence/slothdb/" (22766 60336 0 0) "users.py" "slot_fill_levels_cache.py" "schema_dump_version" "schema_dump.sql" "schema.py" "migration/" "db.py" "cacher.py" "__init__.py" "../" "./")
+
+ ("/srv/db/schema/tables/" (22765 59791 0 0) "verified_servicing.sql" "verified_distance.sql" "verified_container_slot_interval_type.sql" "verified_container_slot_interval.sql" "vendor_job.sql" "user_site.sql" "user_feature_exception.sql" "user_content_type.sql" "user.sql" "ultrasound_test_tag.sql" "ultrasound_test.sql" "ultrasound_tag.sql" "translations.sql" "timezone.sql" "tagcategory.sql" "tag.sql" "sync_journal.sql" "site_type.sql" "site_tag_mapping.sql" "site_state.sql" "site_keyword.sql" "site_homecell.sql" "site.sql" "sim_card_traffic_actual.sql" "sim_card_traffic.sql" "sim_card.sql" "service_schedule_exception.sql" "service_schedule.sql" "service_list_item.sql" "service_list_customer_settings.sql" "service_list.sql" "service_event_type.sql" "scheduling_mode_type.sql" "scheduling_forecasting_settings.sql" "schedule_vehicle_data.sql" "schedule_vehicle_break.sql" "schedule_recurrence_data.sql" "schedule_recurrence.sql" "schedule_forced_visit_data.sql" "report_type.sql" "report_generated_type.sql" "report_generated.sql" "report.sql" "region.sql" "predicted_service_list_item_archive.sql" "predicted_service_list_item.sql" "predicted_service_list_archive.sql" "predicted_service_list.sql" "planner_vehicle_type_config_capacity.sql" "planner_vehicle_type_config.sql" "planner_vehicle_type_accept_container.sql" "planner_vehicle_type.sql" "planner_vehicle_state_load_item.sql" "planner_vehicle_state.sql" "planner_vehicle_plan_visit_item.sql" "planner_vehicle_plan_visit.sql" "planner_vehicle_plan.sql" "planner_vehicle_break_dotw.sql" "planner_vehicle_action_type.sql" "planner_vehicle.sql" "planner_site_schedule_item.sql" "planner_settings.sql" "planner_request.sql" "planner_plan_statistics.sql" "planner_plan_excluded_link.sql" "planner_plan_excluded_area.sql" "planner_plan.sql" "planner_optimization_settings.sql" "planner_nav_weight_relax.sql" "planner_nav_transit_radius.sql" "planner_nav_exclude_link.sql" "planner_nav_exclude_area.sql" "planner_nav_data_override_reason.sql" "planner_mcontainer_schedule_item.sql" "planner_internal_request_lock.sql" "planner_internal_freezing_lock.sql" "planner_dump_service_item.sql" "planner_depot.sql" "planner_customer_settings.sql" "planner_customer_request.sql" "planner_customer_global_settings.sql" "planner_container_type_rescale_capacity.sql" "plan_execution_tracking.sql" "plan_execution_report_mapping.sql" "plan_execution_event.sql" "plan_execution.sql" "order_log_device.sql" "order_log_details.sql" "order_log.sql" "observed_vehicle_load.sql" "observed_container_slot_reading.sql" "notification_report.sql" "notification_alert.sql" "mobile_operator_all.sql" "mobile_operator.sql" "message_type.sql" "max_service_interval_rule_target.sql" "max_service_interval_rule_keyword.sql" "max_service_interval_rule.sql" "macrocontainer_service_event.sql" "macrocontainer_service_annotation.sql" "macrocontainer_scheduling_settings.sql" "macrocontainer_exclusion.sql" "macrocontainer_event.sql" "macrocontainer.sql" "language.sql" "keyword.sql" "internal_user_activity.sql" "form_selection.sql" "feature.sql" "factory_saldo.sql" "event_type.sql" "device_type.sql" "device_timed_feature.sql" "device_subtype.sql" "device_sub_board_component.sql" "device_sub_board.sql" "device_settings_template_settings.sql" "device_settings_template_criteria.sql" "device_settings_template.sql" "device_settings_log.sql" "device_settings_change_request.sql" "device_settings.sql" "device_serial_token.sql" "device_rawdata_motion.sql" "device_rawdata_latest.sql" "device_rawdata.sql" "device_model.sql" "device_log.sql" "device_location_cell.sql" "device_location.sql" "device_group.sql" "device_firmware_update.sql" "device_firmware_chunk.sql" "device_firmware.sql" "device_feature.sql" "device_factory_test.sql" "device_debugdata_compressed.sql" "device_debugdata.sql" "device_container_tilt_reference.sql" "device_container_mapping.sql" "device_connection.sql" "device_casing.sql" "device.sql" "deleted_planner_vehicle_schedule_item.sql" "deleted_planner_vehicle_schedule.sql" "deleted_planner_vehicle_break_site.sql" "deleted_planner_vehicle_break.sql" "date_format.sql" "customer_type_feature.sql" "customer_type.sql" "customer_savings.sql" "customer_reseller_customer.sql" "customer_partner_mapping.sql" "customer_overview.sql" "customer_history_simple.sql" "customer_history_collection.sql" "customer_feature_exception.sql" "customer_event_type.sql" "customer_event.sql" "customer_cost.sql" "customer_contract_status.sql" "customer_content_type.sql" "customer.sql" "currency.sql" "country.sql" "content_type_category.sql" "container_type_level_conversion_function.sql" "container_type.sql" "container_slot_state.sql" "container_slot_service_event.sql" "container_slot_mapping.sql" "container_slot_event.sql" "container_slot.sql" "container.sql" "confidence_type.sql" "area.sql" "app.sql" "analytics_option_type.sql" "analytics_option_data.sql" "analytics_option.sql" "analytics_macrocontainer_lock.sql" "analytics_macrocontainer_last_processed.sql" "analytics_blacklist.sql" "alert_visibility_level.sql" "alert_type.sql" "alert_subscription_owner.sql" "alert_subscription.sql" "alert_string.sql" "alert_setting.sql" "alert_owner.sql" "alert_option_type.sql" "alert_option_owner.sql" "alert_option_name.sql" "alert_option_data.sql" "alert_harvester_execution.sql" "alert_harvester_activation.sql" "alert_harvester.sql" "alert_data.sql" "alert_action.sql" "alert.sql" "address.sql" "../" "./")
+
+ ("/srv/db/schema/" (22441 39588 0 0) "views/" "triggers/" "tables/" "../" "./")
+
+ ("/srv/db/migration/" (22765 59791 0 0) "20170411-TOOLS-574-paying-customer-information.sql" ".gitignore" "../" "./")
+
+ ("/srv/" (22738 16548 0 0) "www/" "wsnbin/" "var/" "sloth/" "rmqconsumer/" "replace_db" "nbextensions/" "mysql/" "log/" "liquibase-3.3.5/" "kpi/" "flyway-3.2.1/" "feature.sql" "enevo/" "docker/" "devbox_db/" "deploy/" "db_schema/" "db-test-hook/" "db/" "data/" "coverage/" "bootstrap-field-accounts.php" "admin/" ".DS_Store" "../" "./")
+
+ ("/Users/lamadon/enevo/sloth/persistence/sloth/" (22541 56857 0 0) "persistence/" "__init__.py" "../" "./")
+
+ ("/Users/lamadon/enevo/sloth/persistence/" (22563 33148 0 0) "sloth/" "setup.py" "requirements.txt" "../" "./")
+
+ ("/Users/lamadon/enevo/sloth/db/sloth/db/__pycache__/" (22389 10279 0 0) "verified_data.cpython-35.pyc" "macrocontainer.cpython-35.pyc" "fill_levels.cpython-35.pyc" "exceptions.cpython-35.pyc" "db.cpython-35.pyc" "container_slot.cpython-35.pyc" "constants.cpython-35.pyc" "conditions.cpython-35.pyc" "__init__.cpython-35.pyc" "../" "./")
+
+ ("/Users/lamadon/enevo/sloth/db/sloth/db/" (22541 56857 0 0) "__pycache__/" "../" "./")
+
+ ("/Users/lamadon/enevo/sloth/db/sloth/" (22541 56857 0 0) "db/" "__pycache__/" "../" "./")
+
+ ("/Users/lamadon/enevo/sloth/db/" (22541 56857 0 0) "sloth/" "../" "./")
+
+ ("/Users/lamadon/enevo/castor/castor/operations/" (22766 60040 0 0) "service_events.py" "planner_settings.py" "health.py" "excluded_link.py" "excluded_area.py" "efficiency_status_annotation.py" "efficiency_status.py" "customer.py" "alert.py" "../" "./")
+
+ ("/Users/lamadon/enevo/falcon-data/falcon_data/niva/" (22748 14128 0 0) "schedule.py" "niva_runner.py" "cusac.py" "case_builder.py" "api_models.py" "__init__.py" "../" "./")
+
+ ("/Users/lamadon/enevo/falcon-data/falcon_data/" (22748 14128 0 0) "watch.py" "util/" "tx.pyx" "tx.pxd" "timestamp.py" "statsd/" "solution/" "simulation/" "serialization/" "schema.py" "request/" "queue.py" "prp/" "persistence/" "optimizer_data/" "optimizer/" "niva/" "navigator/" "mock/" "metrics.py" "interval.pyx" "interval.pxd" "graph/" "geodesy.py" "falcon.py" "exceptions.py" "doc/" "data_converter_main.py" "core_api/" "config/" "client.py" "case/" "api/" "alns/" "__init__.py" "../" "./")
+
+ ("/Users/lamadon/enevo/falcon-data/" (22748 14128 0 0) "tools/" "tests/" "test_requirements.txt" "setup.py" "setup.cfg" "run_unittests.sh" "run_smoke.sh" "run_gunicorn.sh" "run_checks.sh" "run_all_virtualized.sh" "run_all.sh" "requirements.txt" "README.md" "pylintrc" "pylint-plugins/" "optimizer-config/" "notebooks/" "MANIFEST.in" "LICENSE" "jenkins/" "falcon_data/" "docs/" "Dockerfile" "docker-compose.yml" "dev-requirements.txt" "cluster/" "build_requirements.txt" "build.sh" "build-pypi.sh" "build-docs.sh" "build-container.sh" "aws/" ".gitignore" ".git/" ".dockerignore" "../" "./")
+
+ ("/Users/lamadon/workspace/oneapi-clientpy/" (22756 44921 0 0) "test/" "staging.ini.save" "staging.ini" "setup.py" "README.md" "oneapiclient/" "oneapi.ini" "Makefile" ".git/" "../" "./")
+
+ ("/Users/lamadon/workspace/" (22666 26507 0 0) "tools/" "sandbox/" "rel/" "pandas_kb/" "ops/" "oneapi-clientpy/" "meta/" "healthcheck/" "global_kpi/" "dotfiles/" "data_portal/" "cold-containers-diff/" "3party/" "../" "./")
+
+ ("/Users/lamadon/enevo/api/src/onecollect/" (22759 31191 0 0) "timer.php" "reports/" "redis.php" "notifications/" "mailer/" "logger.php" "dbal.php" "dbal/" "db.php" "customloggerappender.php" "customer.php" "config.php" "api.php" "api/" "../" "./")
+
+ ("/Users/lamadon/enevo/api/src/onecollect/api/method/v3/" (22759 27403 0 0) "vehicleschedules.php" "vehicles.php" "vehiclebreaks.php" "vehicle.php" "users.php" "user.php" "tweetingcontainers.php" "timezones.php" "temperaturehistory.php" "tags.php" "tagcategory.php" "tagcategories.php" "tag.php" "strings.php" "staticschedules.php" "sitetypes.php" "sites.php" "sitecontenttypes.php" "sitecontenttypeexclusions.php" "sitecontenttypeexclusion.php" "sitecontenttype.php" "site.php" "session.php" "servicelists.php" "servicelist.php" "serviceevents.php" "serviceevent.php" "sequentialschedules.php" "selections.php" "schedules.php" "schedulerules.php" "schedulerule.php" "scheduleintervals.php" "scheduleinterval.php" "scheduleexceptions.php" "scheduleexception.php" "reporttypes.php" "reports.php" "reportnotifications.php" "report.php" "planvehicleschedules.php" "planvehicleschedule.php" "plantraces.php" "plansiteschedules.php" "plansiteschedule.php" "plansettings.php" "planschedules.php" "planscheduleexceptions.php" "planscheduleexception.php" "plans.php" "planresults.php" "planresult.php" "planexecutions.php" "planexecution.php" "plan.php" "overview/" "messagetypes.php" "languages.php" "journal.php" "instances.php" "globalcontainertypes.php" "generatedreporttypes.php" "generatedreports.php" "generatedreportbykey.php" "generatedreport.php" "generate/" "filllevels.php" "features.php" "externalreportedcollections.php" "dumpsitesetting.php" "documents.php" "devices.php" "devicecontainermappings.php" "device.php" "DESIGN_NOTES/" "dateformats.php" "customertypes.php" "customertime.php" "customers.php" "customer.php" "currencies.php" "countries.php" "contenttypes.php" "contenttypecategories.php" "contenttype.php" "containertypes.php" "containerslots.php" "containerslotmappings.php" "containerslot.php" "containers.php" "container.php" "collectionlistgenerator.php" "cloneabledevices.php" "bin/" "areas.php" "area.php" "alerttypes.php" "alertsubscriptions.php" "alertstrings.php" "alerts.php" "alertnotifications.php" "alert.php" "_health.php" "../" "./")
+
+ ("/Users/lamadon/enevo/passport/passport/openapi/paths/" (22726 24934 0 0) "stamp.yaml" "session.yaml" "passwordReset.yaml" "health.yaml" "authorization.yaml" "authentication.yaml" "../" "./")
+
+ ("/Users/lamadon/enevo/passport/passport/openapi/" (22726 24934 0 0) "paths/" "definitions/" "api.yaml" "_resolved_api.yaml" "../" "./")
+
+ ("/Users/lamadon/enevo/passport/passport/" (22636 56848 0 0) "service.py" "operations/" "openapi/" "lib/" "config.py" "__pycache__/" "__init__.py" "../" "./")
+
+ ("/Users/lamadon/enevo/passport/" (22726 24934 0 0) "test/" "requirements.txt" "README.md" "passport/" "Makefile" "Dockerfile" "docker_build" ".isort.cfg" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/lamadon/enevo/sloth/" (22563 33148 0 0) "usheat/" "tools/" "test/" "sloth.tar" "server/" "run-tests.sh" "run-server.sh" "run-lints.sh" "README.md" "pytest.ini" "pylintrc" "pylint-plugins/" "persistence/" "model/" "forecast/" "example.ipynb" "Dockerfile" "docker-run-tests.sh" "docker-run-lints.sh" "docker-run-devel.sh" "docker-build-image.sh" "docker/" "db/" "config/" "ci/" ".gitignore" ".git/" ".dockerignore" "../" "./")
+
+ ("/Users/lamadon/enevo/castor/castor/openapi/paths/" (22746 15584 0 0) "serviceEvents.yaml" "plannerSettings.yaml" "health.yaml" "excludedLinks.yaml" "excludedAreas.yaml" "efficiencyStatusAnnotations.yaml" "efficiencyStatus.yaml" "customer.yaml" "alerts.yaml" "../" "./")
+
+ ("/Users/lamadon/workspace/ops/changelogs/changelogs/" (22645 53080 0 0) "main.py" "changelogs.tmpl" "__main__.py" "__init__.py" "../" "./")
+
+ ("/Users/lamadon/enevo/wsnbin/src/onecollect/device/" (22756 42733 0 0) "settings.php" "location.php" "firmware.php" "factorytest.php" "factorytest/" "../" "./")
+
+ ("/Users/lamadon/enevo/spreadsheet/spreadsheet/openapi/" (22756 43639 0 0) "paths/" "api.yaml" "../" "./")
+
+ ("/Users/lamadon/enevo/" (22756 42675 0 0) "wsnbin/" "whisper-backup.tar.gz" "spreadsheet/" "sloth/" "schema_oc" "routeplanner/" "rmqconsumer/" "rmq_publisher/" "reporting/" "passport/" "oneapi/" "one/" "ocfw3/" "nano/" "kpitestfw/" "kpi/" "hector/" "guide/" "falcon-optimizer/" "falcon-data/" "falcon-core/" "falcon-app/" "excel_writer/" "devbox/" "db_client/" "clients/" "castor/" "api.backup/" "api/" "analysis/" "alerts/" "admin/" ".idea/" ".DS_Store" "../" "./")
+
+ ("/Users/lamadon/enevo/spreadsheet/" (22756 43639 0 0) "test/" "spreadsheet/" "run-tests.sh" "run-server.sh" "run-lints.sh" "requirements.txt" "README.md" "pylintrc" "Dockerfile" "docker_build" ".isort.cfg" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/lamadon/enevo/spreadsheet/spreadsheet/" (22756 43639 0 0) "service.py" "operations/" "openapi/" "lib/" "__init__.py" "../" "./")
+
+ ("/Users/lamadon/enevo/spreadsheet/spreadsheet/operations/" (22756 43639 0 0) "health.py" "field_report.py" "analyze_service_events.py" "__init__.py" "../" "./")
+
+ ("/Users/lamadon/enevo/spreadsheet/spreadsheet/lib/" (22756 30589 0 0) "operation.py" "__init__.py" "../" "./")
+
+ ("/Users/lamadon/enevo/castor/castor/" (22756 30278 0 0) "service.py" "operations/" "openapi/" "lib/" "__init__.py" "../" "./")
+
+ ("/Users/lamadon/enevo/castor/" (22756 30278 0 0) "util/" "tests/" "run-tests.sh" "run-lints.sh" "requirements.txt" "README.md" "pylintrc" "Makefile" "Dockerfile" "docker_build" "docker-run-tests.sh" "castor/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/lamadon/enevo/hector/hector/" (22756 39313 0 0) "service.py" "operations/" "openapi/" "lib/" "__pycache__/" "__init__.py" "../" "./")
+
+ ("/srv/www/clients/neon/client/src/components/missedCollectionsWidget/" (22644 54268 0 0) "missedCollectionsWidget.js" "missedCollectionsWidget.html" "missedCollectionsWidget.css" "../" "./")
+
+ ("/Users/lamadon/enevo/nano/nano/loggers/" (22630 20008 0 0) "legacy.logger.conf" "docker.logger.conf" "custom.py" "__init__.py" "../" "./")
+
+ ("/Users/lamadon/enevo/nano/nano/" (22746 24602 0 0) "utils.py" "test/" "rmq.py" "refresolver.py" "redis.py" "loggers/" "db.py" "config.py" "api.py" "__init__.py" "../" "./")
+
+ ("/Users/lamadon/enevo/sloth/persistence/sloth/persistence/" (22563 33148 0 0) "verified_data.py" "slothdb/" "persistence.py" "main.py" "macrocontainer.py" "fill_levels.py" "expressions.py" "exceptions.py" "container_slot.py" "constants.py" "conditions.py" "__init__.py" "../" "./")
+
+ ("/Users/lamadon/enevo/passport/passport/operations/" (22636 56848 0 0) "stamp.py" "password_reset.py" "health.py" "authorization.py" "authentication.py" "__pycache__/" "__init__.py" "../" "./")
+
+ ("/srv/www/clients/neon/client/src/components/serviceEvents/" (22727 39284 0 0) "serviceEvents.js" "serviceEvents.html" "serviceEvents.css" "../" "./")
+
+ ("/srv/db/utils/" (22694 50435 0 0) "swap-pt-osc-tables.sh" "replace_db.id_rsa" "replace_db" "migrate_db" "format_mysqldump.sh" "../" "./")
+
+ ("/srv/enevo/neon/components/serviceEvents/" (22727 39284 0 0) "serviceEvents.js" "serviceEvents.html" "serviceEvents.css" "../" "./")
+
+ ("/srv/www/clients/neon/client/src/services/" (22739 37612 0 0) "$vehicleSchedule.js" "$vehicleBreak.js" "$vehicle.js" "$user.js" "$urlState.js" "$updater.js" "$unit.js" "$timezone.js" "$time.js" "$tagCategory.js" "$tag.js" "$svg.js" "$staticSchedule.js" "$smartPlan.js" "$siteType.js" "$siteSchedule.js" "$siteContentTypeExclusion.js" "$siteContentType.js" "$site.js" "$serviceList.js" "$serviceEvent.js" "$sequentialSchedule.js" "$rule.js" "$reportNotification.js" "$report.js" "$plannerSetting.js" "$planExecution.js" "$message.js" "$map.js" "$language.js" "$interval.js" "$feedback.js" "$exception.js" "$efficiencyStatusAnnotation.js" "$efficiencyStatus.js" "$dumpSiteSettings.js" "$device.js" "$customer.js" "$currency.js" "$country.js" "$contentTypeCategory.js" "$contentType.js" "$containerType.js" "$containerSlot.js" "$container.js" "$collection.js" "$auth.js" "$area.js" "$api.js" "$alertType.js" "$alertSubscription.js" "$alert.js" "$acl.js" "../" "./")
+
+ ("/srv/www/clients/neon/client/src/components/missedCollections/" (22727 39284 0 0) "missedCollections.js" "../" "./")
+
+ ("/srv/enevo/castor/castor/" (22756 30278 0 0) "service.py" "operations/" "openapi/" "lib/" "__init__.py" "../" "./")
+
+ ("/srv/enevo/castor/tests/" (22756 30278 0 0) "unit_tests/" "test_efficiency_status.py" "pytest.ini" "integration_tests/" "../" "./")
+
+ ("/srv/enevo/castor/" (22756 30278 0 0) "util/" "tests/" "run-tests.sh" "run-lints.sh" "requirements.txt" "README.md" "pylintrc" "Makefile" "Dockerfile" "docker_build" "docker-run-tests.sh" "castor/" ".gitignore" ".git/" "../" "./")
+
+ ("/srv/enevo/api/etc/" (22746 7435 0 0) "onecollect.unstable.ini" "onecollect.test.ini" "onecollect.staging.ini" "onecollect.rapid.ini" "onecollect.ini" "onecollect.dev.ini" "onecollect.demo.ini" "onecollect.analyze.ini" "../" "./")
+
+ ("/srv/enevo/neon/services/" (22739 37612 0 0) "$vehicleSchedule.js" "$vehicleBreak.js" "$vehicle.js" "$user.js" "$urlState.js" "$updater.js" "$unit.js" "$timezone.js" "$time.js" "$tagCategory.js" "$tag.js" "$svg.js" "$staticSchedule.js" "$smartPlan.js" "$siteType.js" "$siteSchedule.js" "$siteContentTypeExclusion.js" "$siteContentType.js" "$site.js" "$serviceList.js" "$serviceEvent.js" "$sequentialSchedule.js" "$rule.js" "$reportNotification.js" "$report.js" "$plannerSetting.js" "$planExecution.js" "$message.js" "$map.js" "$language.js" "$interval.js" "$feedback.js" "$exception.js" "$efficiencyStatusAnnotation.js" "$efficiencyStatus.js" "$dumpSiteSettings.js" "$device.js" "$customer.js" "$currency.js" "$country.js" "$contentTypeCategory.js" "$contentType.js" "$containerType.js" "$containerSlot.js" "$container.js" "$collection.js" "$auth.js" "$area.js" "$api.js" "$alertType.js" "$alertSubscription.js" "$alert.js" "$acl.js" "../" "./")
+
+ ("/Users/lamadon/enevo/castor/tests/" (22756 30278 0 0) "unit_tests/" "test_efficiency_status.py" "pytest.ini" "integration_tests/" "../" "./")
+
+ ("/Users/lamadon/workspace/ops/puppet/modules/role/templates/" (22746 24413 0 0) "routeplanner.in.enevo.com.conf.erb" "onecollect.enevo.com.conf.erb" "onecollect-fpm.conf.erb" "one.enevo.com.conf.unstable.erb" "one.enevo.com.conf.staging.erb" "one.enevo.com.conf.erb" "neon.enevo.com.conf.erb" "etc-enevo-one.erb" "elasticsearch.yml.erb" "elasticsearch-prune-indices.erb" "consul-template.service.erb" "bacula/" "analysis.enevo.com.conf.erb" "analysis-fpm.conf.erb" "admin-fpm.conf.erb" "../" "./")
+
+ ("/Users/lamadon/workspace/ops/puppet-docker/modules/role/files/consul-template/" (22749 25706 0 0) "nginx-app-spreadsheet.conf" "nginx-app-sloth.conf" "nginx-app-routeplanner.conf" "nginx-app-passport.conf" "nginx-app-neon.conf" "nginx-app-guide.conf" "nginx-app-falcon.conf" "nginx-app-castor.conf" "nginx-app-api.conf" "nginx-app-analysis.conf" "nginx-app-admin.conf" "haproxy.cfg" "config/" "all-services" "../" "./")
+
+ ("/Users/lamadon/enevo/castor/castor/openapi/" (22756 30278 0 0) "paths/" "api.yaml" "../" "./")
+
+ ("/Users/lamadon/enevo/clients/neon/client/src/components/chartPanelFillLevels/" (22745 1399 0 0) "chartPanelFillLevels.js" "../" "./")
+
+ ("/Users/lamadon/enevo/castor/castor/lib/" (22756 30278 0 0) "util_service_events.py" "tablemap.py" "query.py" "operation.py" "alert_type.py" "__init__.py" "../" "./")
+
+ ("/Users/lamadon/enevo/hector/" (22756 30501 0 0) "run-lints.sh" "requirements.txt" "README.md" "pylintrc" "hector/" "Dockerfile" "docker_build" ".git/" "../" "./")
+
+ ("/Users/lamadon/enevo/api/tests/" (22738 27552 0 0) "testcore/" "src/" "run-docker" "bootstrap.php" "__init__.py" "../" "./")
+
+ ("/Users/lamadon/enevo/hector/spreadsheet/lib/" (22738 35136 0 0) "operation.py" "__pycache__/" "__init__.py" "../" "./")
+
+ ("/Users/lamadon/enevo/hector/spreadsheet/operations/" (22738 35136 0 0) "health.py" "field_report.py" "analyze_service_events.py" "__pycache__/" "__init__.py" "../" "./")
+
+ ("/Users/lamadon/enevo/api/" (22746 7435 0 0) "vendor/" "tests/" "test_data.csv" "src/" "scripts/" "pylintrc" "pdepend.xml" "Makefile" "htdocs/" "etc/" "Dockerfile" "docker_build" "docker-compose.yml" "docker/" "composer.lock" "composer.json" "changed-php-files" "build.sh" "bin/" "api-php-style.xml" ".gitignore" ".gitattributes" ".git/" ".dockerignore" "../" "./")
+
+ ("/Users/lamadon/enevo/hector/spreadsheet/openapi/" (22738 35136 0 0) "api.yaml" "_resolved_api.yaml" "../" "./")
+
+ ("/Users/lamadon/enevo/hector/spreadsheet/" (22738 35136 0 0) "service.py" "operations/" "openapi/" "lib/" "__pycache__/" "__init__.py" "../" "./")
+
+ ("/Users/lamadon/workspace/sandbox/python_exp/" (22741 34005 0 0) "test.py" "templating.py" "spam.log" "release_changelog2.py" "release_changelog.py" "mysql_test.py" "logger.py" "log.py" "gitchangelog/" "class.py" "changelog.tmpl" "aws/" "../" "./")
+
+ ("/Users/lamadon/workspace/sandbox/" (22588 300 0 0) "stash/" "python_exp/" "py-finance/" "mysqlconf/" "dockerfiles/" "connexion/" "../" "./")
+
+ ("/Users/" (22702 18536 0 0) "Shared/" "lamadon/" "enevo/" ".localized" "../" "./")
+
+ ("/Users/lamadon/workspace/ops/dockerfiles/tools/jupyter_pydata/" (22739 54923 0 0) "tags" "requirements.txt" "Dockerfile" "../" "./")
+
+ ("/Users/lamadon/workspace/ops/dockerfiles/tools/" (22498 36024 0 0) "oneapi-client/" "jupyter_pydata/" "changelogs/" "../" "./")
+
+ ("/Users/lamadon/workspace/ops/dockerfiles/" (22498 28361 0 0) "tools/" "infra/" "build-one.sh" "base/" ".git/" "../" "./")
+
+ ("/Users/lamadon/enevo/api/src/" (22735 57189 0 0) "template.php" "processlock.php" "onecollect/" "cryptssl.php" "crypt.php" "bootstrap.php" "../" "./")
+
+ ("/Users/lamadon/" (22707 51848 0 0) "workspace/" "VirtualBox VMs/" "users" "testcore.xml" "test_strategy" "test.html" "test-hook" "sorted_distribution.csv" "sites.xlsx" "secret" "rs_sites" "queries.db" "Public/" "plan_result" "plan_2542011.json" "Pictures/" "personal/" "operationSubType.db" "Music/" "Movies/" "mongo_history" "massimport" "Library/" "kpis.db" "jira/" "ids.save" "ids" "history_queries.db" "headers.txt" "go/" "final_list" "enevo.txt" "enevo/" "Downloads/" "Documents/" "docker-deploy.ba" "distribution.csv" "dist.sh" "Desktop/" "deploy.bak/" "demo_pulla.csv" "data/" "customers.db" "cron.db" "composer.lock" "Blizzard/" "bench.save/" "Applications/" "analysis_testing" "Amazon Drive/" ".wireshark/" ".virtualenvs/" ".viminfo" ".vagrant.d/" ".v8flags.3.28.73.lamadon.json" ".v8flags.3.14.5.9.lamadon.json" ".Trash/" ".subversion/" ".ssh/" ".python_history" ".pylint.d/" ".pyenv/" ".php_history" ".pdepend/" ".oracle_jre_usage/" ".npm/" ".node-gyp/" ".meteorsession" ".meteor/" ".matplotlib/" ".local/" ".lesshst" ".jupyter/" ".ipython/" ".ipynb_checkpoints/" ".IntelliJIdea14/" ".idlerc/" ".htoprc" ".gradle/" ".gitconfig" ".git-credentials" ".flexlmrc" ".emacs.d.pre-prelude.tar" ".emacs.d/" ".DS_Store" ".docker/" ".devpi/" ".cups/" ".config/" ".composer/" ".CFUserTextEncoding" ".cache/" ".bash_sessions/" ".bash_profile~" ".bash_profile" ".bash_history" ".bash_aliases" ".atom/" ".android/" "../" "./")
+
+ ("/Users/lamadon/Documents/" (22700 6068 0 0) "YT_enevo" "Year_resolution" "WM_import" "Weight.sql" "Verokortti-PaatoimenPalkat-20150511.pdf" "user-avatar.png" "urgent" "Updated Enevo Phase I Implementation (7).xlsx" "timezones" "testing" "test_kpi.sql" "Tax card 2015 - Results of calculation.webarchive" "talismark_static_schedules.csv" "talismark_efs_ytd_2.json" "talismark_efs_ytd.json" "tagset" "tag_creation.csv" "stats.sql" "sql_draft" "sites_feedback_session" "shots/" "servicinghour" "ServiceLists.sql" "Service Days for Cans With Sensors with IDs.xlsx" "Screenshot_2015-06-01-10-47-53.png" "schedules_api.sql" "schedules.xlsx" "Schedules.sql" "Schedule_import_template.xlsx" "SA_trip_export.xlsx" "SA_trip.xlsx" "SA_trip.pdf" "SA_trip.numbers" "SA.mnd" "RS_schedules_import_template012517.xlsx" "RS_schedules_import_template.xlsx" "RS_schedules_012517.xlsx" "RS_27_12_2016.xlsx" "RS_122316_excel.xlsx" "RS_122316.xlsx" "RingCentralMeetings/" "richards_islington.sql" "release_pipeline" "plans_2015-08-31T01-01-50Z.numbers" "Plans.sql" "plan_spec" "plan_execution_grooming" "output" "operate_product_package" "one-596_test_plan" "notification" "My Tableau Repository/" "Missed_plans.html" "mappings.sql" "maarten_dump_2017_02_07.csv" "maarten_dump_2017_01_16.csv" "maarten_dump_2016_11_09.csv" "maarten_dump_2016_11_02.csv" "maarten_dump.sql" "maarten_dump.csv" "kpi.sql" "kb/" "json_se_analyze" "IMG_1663.JPG" "Ideas" "ICD-73" "grooming_draft" "GreaterKruger_SabiSands_L.jpg" "GP010026.MP4" "full_replacement.sql" "foobar" "filllevels.csv" "Features_db.svg" "Features_db.png" "EnevoSchedUpdate122316.xlsx" "Enevo Phase II - Indy 612.xlsx" "enevo/" "Employee information.pages" "Employee information.docx" "Edinburgh_communal_analysis_Dec15.xlsx" "driverapp" "distribution" "Devices_dashboard_extract.tde" "Devices_dashboard.twbx" "Devices.twbx" "Devices.twb" "db_features.mwb" "data_SL" "CV_Jean-Luc_Lamadon.doc" "CV.doc" "creds" "Containers.sql" "bug_notification" "authentication" "Auth-solution-proposal.pdf" "area_creation.csv" "Analyze_site_user_flow.mov" "alerts_dashboard" "alerts" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/lamadon/Documents/enevo/doggy_food/" (22699 4613 0 0) "service_workflow" "../" "./")
+
+ ("/Users/lamadon/Documents/enevo/" (22698 46669 0 0) "sprint_demo_June3_15~" "sprint_demo_June3_15" "schedules/" "doggy_food/" "../" "./")
+
+ ("/Users/lamadon/workspace/ops/deployments_radiator/deployments_radiator/" (22501 8265 0 0) "deployments_radiator.py" "__init__.py" "../" "./")
+
+ ("/Users/lamadon/workspace/ops/deployments_radiator/" (22498 33090 0 0) "setup.py" "Dockerfile" "docker_build" "deployments_radiator/" ".git/" "../" "./")
+
+ ("/Users/lamadon/enevo/clients/neon/client/src/components/" (22694 51114 0 0) "vehicleSchedules/" "vehicles/" "users/" "timezonePicker/" "timeDisplay/" "tags/" "staticSchedules/" "spinner/" "smartPlans/" "smartPlan/" "siteSchedules/" "sites/" "siteFilter/" "siteContentTypeExclusions/" "site/" "sidebar/" "serviceValidation/" "serviceLists/" "serviceList/" "serviceInfo/" "serviceEvents/" "serialNumber/" "selector/" "schedules/" "scheduleDisplay/" "rules/" "root/" "reports/" "reportExport/" "rangeSlider/" "overview/" "numberInput/" "missedCollectionsWidget/" "missedCollections/" "media/" "map/" "main/" "login/" "liveMap/" "listSmartPlan/" "listSiteContentTypeExclusions/" "listServiceList/" "listServiceEvents/" "listMissedServiceEvents/" "listCustomers/" "listContainer/" "listAlerts/" "list/" "intervals/" "icon/" "home/" "hereMap/" "formVehicleSchedule/" "formVehicle/" "formUser/" "formTagCategory/" "formTag/" "formStaticSchedule/" "formSiteSchedule/" "formSiteContentTypeExclusion/" "formSite/" "formRule/" "formInterval/" "formException/" "formCustomer/" "formContentType/" "formContainerType/" "formContainer/" "formArea/" "form/" "fillBar/" "exceptions/" "dialogWelcome/" "dialogSurvey/" "dialog/" "devPanel/" "devices/" "deviceProperties/" "deviceList/" "device/" "customers/" "contentTypes/" "containerTypes/" "containers/" "containerHeights/" "container/" "chartPanelSchedule/" "chartPanelFillLevels/" "chartPanelFill/" "chartPanelExecuted/" "chartPanelContainers/" "chartPanelCollect/" "chartPanelAlerts/" "chartPanel/" "centeredMessage/" "buildUpRate/" "baseView/" "areas/" "alerts/" "alertList/" "../" "./")
+
+ ("/Users/lamadon/enevo/clients/neon/client/src/" (22694 41627 0 0) "static/" "services/" "lib/" "filters/" "decorators/" "components/" "classes/" "bower.json" "boot/" ".bowerrc" "../" "./")
+
+ ("/Users/lamadon/enevo/clients/neon/client/" (22694 41604 0 0) "test/" "src/" "po/" "package.json" "node_modules/" "gulpfile.js" "dist/" ".jshintrc" "../" "./")
+
+ ("/Users/lamadon/enevo/clients/neon/" (22694 41797 0 0) "tools/" "server/" "readme.md" "docs/" "Dockerfile" "docker_run" "docker_build" "docker-compose.yml" "docker/" "client/" ".gitignore" ".git/" ".dockerignore" "../" "./")
+
+ ("/Users/lamadon/enevo/clients/" (22515 49230 0 0) "smart_driver/" "smart-driver-2.0/" "neon/" "fieldworker/" "e2e_tests/" "crowdsourcer/" "Android-Seekbar-Example/" "../" "./")
+
+ ("/srv/db/archives/" (22441 39588 0 0) "rollback/" "migration/" "20160223-CD-439-fill-level-alert-add-macro.sql" "../" "./")
+
+ ("/srv/db/" (22505 3638 0 0) "utils/" "schema/" "rollback/" "README.md" "migration/" "initdb.sh" "Dockerfile" "docker_run" "docker_build" "docker/" "data/" "archives/" ".git/" "../" "./")
+
+ ("/Users/lamadon/enevo/wsnbin/src/onecollect/" (22692 17115 0 0) "timer.php" "target.php" "site.php" "server/" "redis.php" "rabbitmq.php" "logger.php" "device.php" "device/" "db.php" "customer.php" "container.php" "config.php" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
